@@ -1,0 +1,148 @@
+ [
+      {
+        "number": 1,
+        "innerDesires": "To lead, create, and be independent.",
+        "emotionalResponses": "Strong-willed, determined, but sometimes impatient.",
+        "loveAndRelationships": "Seeks a partner who respects their independence and ambition.",
+        "careerAndPurpose": "Excels in leadership roles, entrepreneurship, and self-driven careers.",
+        "spiritualPath": "Focuses on self-mastery and personal power.",
+        "bestProfessions": ["CEO", "Politician", "Entrepreneur", "Actor"],
+        "loveCompatibility": {"best": [3, 5, 9], "worst": [8]},
+        "famousPersonalities": ["Narendra Modi", "Amitabh Bachchan"],
+        "advice": "Balance ambition with humility and patience."
+      },
+      {
+        "number": 2,
+        "innerDesires": "To nurture, support, and bring peace to others.",
+        "emotionalResponses": "Highly sensitive, compassionate, but can be indecisive.",
+        "loveAndRelationships": "Needs deep emotional connections and loyalty.",
+        "careerAndPurpose": "Thrives in counseling, healing, and mediation roles.",
+        "spiritualPath": "Focused on emotional balance and harmony.",
+        "bestProfessions": ["Psychologist", "Musician", "Healer", "Diplomat"],
+        "loveCompatibility": {"best": [6, 8, 11], "worst": [5]},
+        "famousPersonalities": ["Mahatma Gandhi", "Shah Rukh Khan"],
+        "advice": "Trust your intuition and stand firm in decisions."
+      },
+      {
+        "number": 3,
+        "innerDesires": "To express creativity, joy, and inspire others.",
+        "emotionalResponses": "Optimistic, enthusiastic, but can be scattered.",
+        "loveAndRelationships": "Seeks excitement, fun, and deep emotional connections.",
+        "careerAndPurpose": "Thrives in artistic, social, and entertainment fields.",
+        "spiritualPath": "Spiritual growth through self-expression.",
+        "bestProfessions": ["Artist", "Writer", "Performer", "Public Speaker"],
+        "loveCompatibility": {"best": [1, 5, 7], "worst": [4]},
+        "famousPersonalities": ["A.R. Rahman", "Sachin Tendulkar"],
+        "advice": "Focus on discipline and follow through with goals."
+      },
+      {
+        "number": 4,
+        "innerDesires": "To build, organize, and create stability.",
+        "emotionalResponses": "Reliable, disciplined, but sometimes rigid.",
+        "loveAndRelationships": "Seeks loyalty, commitment, and practical relationships.",
+        "careerAndPurpose": "Excels in structured environments like business and engineering.",
+        "spiritualPath": "Believes in discipline, hard work, and karma.",
+        "bestProfessions": ["Engineer", "Banker", "Manager", "Scientist"],
+        "loveCompatibility": {"best": [2, 6, 8], "worst": [3]},
+        "famousPersonalities": ["Dhirubhai Ambani", "Kailash Satyarthi"],
+        "advice": "Be open to flexibility and new perspectives."
+      },
+      {
+        "number": 5,
+        "innerDesires": "To explore, experience freedom, and embrace adventure.",
+        "emotionalResponses": "Energetic, adaptable, but can be restless.",
+        "loveAndRelationships": "Needs excitement, spontaneity, and intellectual stimulation.",
+        "careerAndPurpose": "Thrives in travel, media, and dynamic careers.",
+        "spiritualPath": "Spiritual evolution through life experiences.",
+        "bestProfessions": ["Journalist", "Entrepreneur", "Travel Guide", "Marketing"],
+        "loveCompatibility": {"best": [1, 3, 7], "worst": [4]},
+        "famousPersonalities": ["Virat Kohli", "Priyanka Chopra"],
+        "advice": "Find balance between freedom and responsibility."
+      },
+      {
+        "number": 6,
+        "innerDesires": "To nurture, care, and create a harmonious home and society.",
+        "emotionalResponses": "Loving, responsible, but can be overprotective.",
+        "loveAndRelationships": "Seeks a deep emotional bond, loyalty, and long-term commitment.",
+        "careerAndPurpose": "Thrives in caregiving, counseling, and artistic careers.",
+        "spiritualPath": "Spiritual growth through service and love.",
+        "bestProfessions": ["Teacher", "Doctor", "Counselor", "Artist"],
+        "loveCompatibility": {"best": [2, 4, 8], "worst": [5]},
+        "famousPersonalities": ["Mother Teresa", "Lata Mangeshkar"],
+        "advice": "Learn to set boundaries and avoid over-sacrificing."
+      },
+      {
+        "number": 7,
+        "innerDesires": "To seek knowledge, wisdom, and spiritual enlightenment.",
+        "emotionalResponses": "Deep thinker, introspective, but can be reserved.",
+        "loveAndRelationships": "Seeks an intellectual and spiritual connection.",
+        "careerAndPurpose": "Excels in research, philosophy, and spirituality.",
+        "spiritualPath": "Focused on inner wisdom and self-discovery.",
+        "bestProfessions": ["Philosopher", "Scientist", "Spiritual Teacher", "Author"],
+        "loveCompatibility": {"best": [3, 5, 9], "worst": [8]},
+        "famousPersonalities": ["Swami Vivekananda", "Jiddu Krishnamurti"],
+        "advice": "Balance introspection with social interaction."
+      },
+      {
+        "number": 8,
+        "innerDesires": "To achieve success, power, and financial stability.",
+        "emotionalResponses": "Strong-willed, determined, but can be materialistic.",
+        "loveAndRelationships": "Seeks a partner who understands their ambition and drive.",
+        "careerAndPurpose": "Thrives in business, finance, and leadership roles.",
+        "spiritualPath": "Spiritual growth through discipline and karma.",
+        "bestProfessions": ["Business Owner", "Politician", "Banker", "Investor"],
+        "loveCompatibility": {"best": [2, 4, 6], "worst": [1]},
+        "famousPersonalities": ["Mukesh Ambani", "Narayan Murthy"],
+        "advice": "Balance material success with emotional fulfillment."
+      },
+      {
+        "number": 9,
+        "innerDesires": "To serve humanity, inspire others, and create change.",
+        "emotionalResponses": "Compassionate, visionary, but can be overly idealistic.",
+        "loveAndRelationships": "Seeks a partner with a humanitarian and compassionate heart.",
+        "careerAndPurpose": "Excels in charity work, teaching, and leadership.",
+        "spiritualPath": "Spiritual enlightenment through service and wisdom.",
+        "bestProfessions": ["Humanitarian", "Social Worker", "Spiritual Leader", "Artist"],
+        "loveCompatibility": {"best": [1, 3, 7], "worst": [4]},
+        "famousPersonalities": ["Rabindranath Tagore", "A.P.J. Abdul Kalam"],
+        "advice": "Stay grounded while following your big dreams."
+      },
+      {
+        "number": 11,
+        "innerDesires": "To inspire and guide others through intuition and enlightenment.",
+        "emotionalResponses": "Highly intuitive, sensitive, but can be anxious or overwhelmed.",
+        "loveAndRelationships": "Seeks a deeply spiritual and understanding partner.",
+        "careerAndPurpose": "Excels in spiritual guidance, healing, and creative arts.",
+        "spiritualPath": "Highly intuitive, connected to higher wisdom.",
+        "bestProfessions": ["Spiritual Guru", "Psychic", "Artist", "Philosopher"],
+        "loveCompatibility": {"best": [2, 7, 9], "worst": [4]},
+        "famousPersonalities": ["Osho Rajneesh", "Rabindranath Tagore"],
+        "advice": "Embrace your spiritual gifts while staying grounded."
+      },
+      {
+        "number": 22,
+        "innerDesires": "To build something great that impacts the world positively.",
+        "emotionalResponses": "Highly disciplined, visionary, but sometimes overburdened by responsibilities.",
+        "loveAndRelationships": "Seeks a partner who understands their drive for success and vision.",
+        "careerAndPurpose": "Thrives in engineering, architecture, and leadership roles.",
+        "spiritualPath": "Believes in structured spirituality and karma.",
+        "bestProfessions": ["Engineer", "CEO", "Architect", "Politician"],
+        "loveCompatibility": {"best": [4, 6, 8], "worst": [5]},
+        "famousPersonalities": ["Dr. B.R. Ambedkar", "Ratan Tata"],
+        "advice": "Balance work with personal life to avoid burnout."
+      },
+      {
+        "number": 33,
+        "innerDesires": "To spread love, healing, and enlightenment to the world.",
+        "emotionalResponses": "Deeply compassionate, wise, but can be emotionally intense.",
+        "loveAndRelationships": "Seeks a soulful connection and a partner who shares their humanitarian values.",
+        "careerAndPurpose": "Excels in healing, teaching, and humanitarian work.",
+        "spiritualPath": "The highest path of love, compassion, and enlightenment.",
+        "bestProfessions": ["Healer", "Teacher", "Spiritual Leader", "Philanthropist"],
+        "loveCompatibility": {"best": [6, 9, 11], "worst": [1]},
+        "famousPersonalities": ["Sai Baba", "Mata Amritanandamayi"],
+        "advice": "Use your deep wisdom to uplift others without losing yourself."
+      }
+    ]
+  
+  

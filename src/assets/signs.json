@@ -1,0 +1,538 @@
+ [
+      {
+        "name": "Aries",
+        "element": "Fire",
+        "rulingPlanet": "Mars",
+        "symbol": "Ram",
+        "qualities": ["Courageous", "Energetic", "Impulsive", "Leadership", "Determined"],
+        "strengths": ["Confident", "Passionate", "Bold", "Quick Learner"],
+        "weaknesses": ["Impatient", "Aggressive", "Short-tempered", "Impulsive"],
+        "life": "Aries individuals are natural-born leaders. They thrive in competitive environments and love challenges.",
+        "career": "They excel in leadership roles, entrepreneurship, sports, military, and high-energy professions.",
+        "bestProfessions": ["Entrepreneur", "Athlete", "Surgeon", "Firefighter", "Military Officer"],
+        "loveCompatibility": ["Best: Leo, Sagittarius, Gemini", "Worst: Cancer, Capricorn"],
+        "financialHabits": "Impulsive spenders but good at making quick financial gains.",
+        "spiritualTraits": "Energetic but need to cultivate patience and inner peace.",
+        "health": "Prone to headaches, stress-related issues, and injuries due to their active nature.",
+        "luckyNumbers": [1, 9, 17],
+        "luckyColors": ["Red", "Scarlet"],
+        "famousPersonalities": ["Rani Lakshmibai", "Mukesh Ambani", "Ajay Devgn", "Ram Navami (Lord Rama's birth sign)"],
+        "advice": "Practice patience and think before acting."
+      },
+      {
+        "name": "Taurus",
+        "element": "Earth",
+        "rulingPlanet": "Venus",
+        "symbol": "Bull",
+        "qualities": ["Reliable", "Patient", "Practical", "Loyal", "Hardworking"],
+        "strengths": ["Determined", "Loyal", "Stable", "Good Financial Sense"],
+        "weaknesses": ["Stubborn", "Possessive", "Materialistic"],
+        "life": "Taurus individuals seek security, stability, and comfort. They value material success and enjoy a luxurious lifestyle.",
+        "career": "They do well in finance, banking, agriculture, music, and interior design.",
+        "bestProfessions": ["Banker", "Chef", "Artist", "Financial Advisor", "Fashion Designer"],
+        "loveCompatibility": ["Best: Virgo, Capricorn, Pisces", "Worst: Leo, Aquarius"],
+        "financialHabits": "Great at saving money and making long-term investments.",
+        "spiritualTraits": "Grounded and connected to nature but need to avoid materialistic distractions.",
+        "health": "Prone to throat infections, weight-related issues, and thyroid problems.",
+        "luckyNumbers": [2, 6, 11],
+        "luckyColors": ["Green", "Pink"],
+        "famousPersonalities": ["Sachin Tendulkar", "Rabindranath Tagore", "Madhuri Dixit", "Parashurama Jayanti (Lord Parashurama's birth sign)"],
+        "advice": "Embrace flexibility and open-mindedness."
+      },
+      {
+        "name": "Gemini",
+        "element": "Air",
+        "rulingPlanet": "Mercury",
+        "symbol": "Twins",
+        "qualities": ["Versatile", "Curious", "Witty", "Social", "Intelligent"],
+        "strengths": ["Quick Thinker", "Charming", "Adaptable", "Communicative"],
+        "weaknesses": ["Indecisive", "Inconsistent", "Easily Distracted"],
+        "life": "Geminis are highly intelligent and adaptable. They enjoy learning new things and interacting with different people.",
+        "career": "They excel in journalism, writing, marketing, public relations, and teaching.",
+        "bestProfessions": ["Writer", "Journalist", "Teacher", "Social Media Manager", "Public Speaker"],
+        "loveCompatibility": ["Best: Libra, Aquarius, Aries", "Worst: Pisces, Virgo"],
+        "financialHabits": "Spend impulsively but can quickly find new ways to earn money.",
+        "spiritualTraits": "Seek knowledge but need to practice mindfulness.",
+        "health": "Prone to anxiety, nervous disorders, and respiratory issues.",
+        "luckyNumbers": [5, 14, 23],
+        "luckyColors": ["Yellow", "Light Blue"],
+        "famousPersonalities": ["Narendra Modi", "Karan Johar", "Rahul Gandhi", "Lord Krishna (considered to have Gemini traits)"],
+        "advice": "Focus on long-term goals instead of quick changes."
+      },
+      {
+        "name": "Cancer",
+        "element": "Water",
+        "rulingPlanet": "Moon",
+        "symbol": "Crab",
+        "qualities": ["Emotional", "Nurturing", "Intuitive", "Protective"],
+        "strengths": ["Compassionate", "Loyal", "Creative", "Family-Oriented"],
+        "weaknesses": ["Moody", "Overprotective", "Easily Hurt"],
+        "life": "Cancer individuals are deeply emotional and value home, family, and security above all else.",
+        "career": "They thrive in caregiving, counseling, psychology, nursing, and hospitality.",
+        "bestProfessions": ["Nurse", "Therapist", "Chef", "Real Estate Agent", "Teacher"],
+        "loveCompatibility": ["Best: Scorpio, Pisces, Taurus", "Worst: Aries, Libra"],
+        "financialHabits": "Good at saving money but can be emotional spenders.",
+        "spiritualTraits": "Highly intuitive but must learn to balance emotions.",
+        "health": "Prone to digestive issues, emotional stress, and water retention problems.",
+        "luckyNumbers": [2, 7, 16],
+        "luckyColors": ["White", "Silver"],
+        "famousPersonalities": ["Dalai Lama", "Priyanka Chopra", "MS Dhoni", "Gautama Buddha (believed to be a Cancerian)"],
+        "advice": "Learn to trust and let go of past emotions."
+      },
+      {
+        "name": "Leo",
+        "element": "Fire",
+        "rulingPlanet": "Sun",
+        "symbol": "Lion",
+        "qualities": [
+            "Confident",
+            "Charismatic",
+            "Ambitious",
+            "Generous",
+            "Natural Leader"
+        ],
+        "strengths": [
+            "Brave",
+            "Loyal",
+            "Creative",
+            "Inspiring"
+        ],
+        "weaknesses": [
+            "Egotistical",
+            "Stubborn",
+            "Demanding",
+            "Dramatic"
+        ],
+        "life": "Leos are born leaders with a flair for drama and a desire to shine in every aspect of life.",
+        "career": "They thrive in entertainment, politics, management, and entrepreneurship.",
+        "bestProfessions": [
+            "Actor",
+            "Politician",
+            "CEO",
+            "Motivational Speaker",
+            "Event Manager"
+        ],
+        "loveCompatibility": [
+            "Best: Aries, Sagittarius, Gemini",
+            "Worst: Taurus, Scorpio"
+        ],
+        "financialHabits": "Generous spenders who love luxury but need to manage impulsive expenses.",
+        "spiritualTraits": "Seek recognition but must cultivate humility and inner peace.",
+        "health": "Prone to heart-related issues, stress, and back pain.",
+        "luckyNumbers": [
+            1,
+            3,
+            10
+        ],
+        "luckyColors": [
+            "Gold",
+            "Orange"
+        ],
+        "famousPersonalities": [
+            "Amitabh Bachchan",
+            "Rajinikanth",
+            "Sunil Gavaskar",
+            "Lord Vishnu (often associated with Leo)"
+        ],
+        "advice": "Balance pride with humility and listen to others."
+    },
+    {
+        "name": "Virgo",
+        "element": "Earth",
+        "rulingPlanet": "Mercury",
+        "symbol": "Maiden",
+        "qualities": [
+            "Analytical",
+            "Practical",
+            "Hardworking",
+            "Detail-Oriented",
+            "Modest"
+        ],
+        "strengths": [
+            "Organized",
+            "Reliable",
+            "Intelligent",
+            "Health-Conscious"
+        ],
+        "weaknesses": [
+            "Overcritical",
+            "Perfectionist",
+            "Worrier"
+        ],
+        "life": "Virgos seek perfection in everything and have a strong sense of duty.",
+        "career": "They excel in research, healthcare, editing, and technical fields.",
+        "bestProfessions": [
+            "Doctor",
+            "Editor",
+            "Scientist",
+            "Software Developer",
+            "Nutritionist"
+        ],
+        "loveCompatibility": [
+            "Best: Taurus, Capricorn, Cancer",
+            "Worst: Sagittarius, Gemini"
+        ],
+        "financialHabits": "Excellent at budgeting but may overthink financial decisions.",
+        "spiritualTraits": "Logical but need to embrace spontaneity and faith.",
+        "health": "Prone to digestive issues, anxiety, and nervous disorders.",
+        "luckyNumbers": [
+            5,
+            14,
+            23
+        ],
+        "luckyColors": [
+            "Green",
+            "Beige"
+        ],
+        "famousPersonalities": [
+            "Narendra Modi",
+            "Mother Teresa",
+            "Akshay Kumar",
+            "Lord Krishna (associated with Virgo qualities)"
+        ],
+        "advice": "Embrace imperfections and avoid overthinking."
+    },
+    {
+        "name": "Libra",
+        "element": "Air",
+        "rulingPlanet": "Venus",
+        "symbol": "Scales",
+        "qualities": [
+            "Diplomatic",
+            "Charming",
+            "Balanced",
+            "Fair",
+            "Social"
+        ],
+        "strengths": [
+            "Great Communicator",
+            "Peacemaker",
+            "Loyal",
+            "Creative"
+        ],
+        "weaknesses": [
+            "Indecisive",
+            "People-Pleaser",
+            "Avoids Conflict"
+        ],
+        "life": "Libras seek harmony in relationships and thrive in social settings.",
+        "career": "They shine in law, arts, fashion, and diplomacy.",
+        "bestProfessions": [
+            "Lawyer",
+            "Fashion Designer",
+            "Artist",
+            "Public Relations Manager",
+            "Judge"
+        ],
+        "loveCompatibility": [
+            "Best: Gemini, Aquarius, Leo",
+            "Worst: Cancer, Capricorn"
+        ],
+        "financialHabits": "Loves luxury but needs to balance spending and saving.",
+        "spiritualTraits": "Seeks balance but must learn to make firm decisions.",
+        "health": "Prone to kidney issues, lower back pain, and stress-related disorders.",
+        "luckyNumbers": [
+            6,
+            15,
+            24
+        ],
+        "luckyColors": [
+            "Blue",
+            "Pink"
+        ],
+        "famousPersonalities": [
+            "Mahatma Gandhi",
+            "Asha Bhosale",
+            "Amit Shah",
+            "Goddess Lakshmi (symbolic of balance)"
+        ],
+        "advice": "Trust your instincts and make firm decisions."
+    },
+    {
+        "name": "Scorpio",
+        "element": "Water",
+        "rulingPlanet": "Mars & Pluto",
+        "symbol": "Scorpion",
+        "qualities": [
+            "Intense",
+            "Mysterious",
+            "Passionate",
+            "Determined",
+            "Loyal"
+        ],
+        "strengths": [
+            "Strategic Thinker",
+            "Courageous",
+            "Resilient",
+            "Intuitive"
+        ],
+        "weaknesses": [
+            "Jealous",
+            "Secretive",
+            "Possessive",
+            "Vengeful"
+        ],
+        "life": "Scorpios are highly intuitive, passionate, and deeply emotional individuals.",
+        "career": "They excel in research, investigation, medicine, and finance.",
+        "bestProfessions": [
+            "Detective",
+            "Surgeon",
+            "Psychologist",
+            "Financial Analyst",
+            "Spiritual Healer"
+        ],
+        "loveCompatibility": [
+            "Best: Cancer, Pisces, Virgo",
+            "Worst: Leo, Aquarius"
+        ],
+        "financialHabits": "Excellent at financial planning but can be secretive about money.",
+        "spiritualTraits": "Deeply transformative but must learn to let go of grudges.",
+        "health": "Prone to reproductive and hormonal issues, stress, and infections.",
+        "luckyNumbers": [
+            8,
+            11,
+            22
+        ],
+        "luckyColors": [
+            "Black",
+            "Red"
+        ],
+        "famousPersonalities": [
+            "APJ Abdul Kalam",
+            "Shahrukh Khan",
+            "Indira Gandhi",
+            "Lord Shiva (associated with Scorpio traits)"
+        ],
+        "advice": "Practice forgiveness and open up emotionally."
+    },
+    {
+        "name": "Sagittarius",
+        "element": "Fire",
+        "rulingPlanet": "Jupiter",
+        "symbol": "Archer",
+        "qualities": [
+            "Adventurous",
+            "Optimistic",
+            "Independent",
+            "Philosophical",
+            "Honest"
+        ],
+        "strengths": [
+            "Free-Spirited",
+            "Loves Learning",
+            "Charismatic",
+            "Generous"
+        ],
+        "weaknesses": [
+            "Impatient",
+            "Careless",
+            "Tactless",
+            "Overconfident"
+        ],
+        "life": "Sagittarius individuals are wanderers who love travel, knowledge, and adventure.",
+        "career": "They thrive in teaching, travel, philosophy, and exploration.",
+        "bestProfessions": [
+            "Professor",
+            "Travel Blogger",
+            "Philosopher",
+            "Explorer",
+            "Sports Coach"
+        ],
+        "loveCompatibility": [
+            "Best: Aries, Leo, Aquarius",
+            "Worst: Taurus, Virgo"
+        ],
+        "financialHabits": "Spends freely but tends to attract financial luck.",
+        "spiritualTraits": "Deep seekers of truth but need grounding.",
+        "health": "Prone to hip, thigh, and liver-related issues.",
+        "luckyNumbers": [
+            3,
+            7,
+            21
+        ],
+        "luckyColors": [
+            "Purple",
+            "Blue"
+        ],
+        "famousPersonalities": [
+            "Dharmendra",
+            "Rajnikanth",
+            "Yami Gautam",
+            "Lord Dattatreya (spiritual wisdom)"
+        ],
+        "advice": "Think before speaking and avoid reckless risks."
+    },
+    {
+        "name": "Capricorn",
+        "element": "Earth",
+        "rulingPlanet": "Saturn",
+        "symbol": "Goat",
+        "qualities": [
+            "Disciplined",
+            "Hardworking",
+            "Responsible",
+            "Practical",
+            "Ambitious"
+        ],
+        "strengths": [
+            "Determined",
+            "Organized",
+            "Patient",
+            "Self-Controlled"
+        ],
+        "weaknesses": [
+            "Pessimistic",
+            "Stubborn",
+            "Cold",
+            "Workaholic"
+        ],
+        "life": "Capricorns are highly ambitious individuals who believe in discipline and structure.",
+        "career": "They excel in corporate roles, law, administration, and finance.",
+        "bestProfessions": [
+            "CEO",
+            "Judge",
+            "Financial Analyst",
+            "Architect",
+            "Government Official"
+        ],
+        "loveCompatibility": [
+            "Best: Taurus, Virgo, Scorpio",
+            "Worst: Aries, Libra"
+        ],
+        "financialHabits": "Excellent savers and long-term investors.",
+        "spiritualTraits": "Seek stability but must learn to embrace emotions.",
+        "health": "Prone to knee, bone, and skin-related issues.",
+        "luckyNumbers": [
+            4,
+            8,
+            22
+        ],
+        "luckyColors": [
+            "Brown",
+            "Dark Green"
+        ],
+        "famousPersonalities": [
+            "Deepika Padukone",
+            "Bipin Rawat",
+            "Kapil Dev",
+            "Lord Hanuman (symbol of discipline)"
+        ],
+        "advice": "Balance work and personal life; open up emotionally."
+    },
+    {
+        "name": "Aquarius",
+        "element": "Air",
+        "rulingPlanet": "Saturn & Uranus",
+        "symbol": "Water Bearer",
+        "qualities": [
+            "Innovative",
+            "Visionary",
+            "Independent",
+            "Intellectual",
+            "Humanitarian"
+        ],
+        "strengths": [
+            "Unique Thinker",
+            "Progressive",
+            "Friendly",
+            "Unconventional"
+        ],
+        "weaknesses": [
+            "Detached",
+            "Unpredictable",
+            "Rebellious",
+            "Aloof"
+        ],
+        "life": "Aquarians are forward-thinkers with a deep concern for humanity and social justice.",
+        "career": "They shine in technology, science, social work, and entrepreneurship.",
+        "bestProfessions": [
+            "Scientist",
+            "Inventor",
+            "Social Activist",
+            "IT Professional",
+            "Astrologer"
+        ],
+        "loveCompatibility": [
+            "Best: Gemini, Libra, Sagittarius",
+            "Worst: Cancer, Scorpio"
+        ],
+        "financialHabits": "Spends on unique causes but needs structured savings.",
+        "spiritualTraits": "Seek universal truth but must connect emotionally.",
+        "health": "Prone to circulatory and nerve-related issues.",
+        "luckyNumbers": [
+            4,
+            7,
+            11
+        ],
+        "luckyColors": [
+            "Electric Blue",
+            "Silver"
+        ],
+        "famousPersonalities": [
+            "Subhash Chandra Bose",
+            "Preity Zinta",
+            "Abhishek Bachchan",
+            "Sage Vyasa (knowledge seeker)"
+        ],
+        "advice": "Stay grounded and build deep emotional connections."
+    },
+    {
+        "name": "Pisces",
+        "element": "Water",
+        "rulingPlanet": "Jupiter & Neptune",
+        "symbol": "Fish",
+        "qualities": [
+            "Compassionate",
+            "Creative",
+            "Emotional",
+            "Intuitive",
+            "Spiritual"
+        ],
+        "strengths": [
+            "Empathetic",
+            "Artistic",
+            "Romantic",
+            "Dreamy"
+        ],
+        "weaknesses": [
+            "Over-Sensitive",
+            "Escapist",
+            "Indecisive",
+            "Idealistic"
+        ],
+        "life": "Pisces individuals are deeply emotional, creative, and have a strong connection to spirituality.",
+        "career": "They excel in arts, healing, psychology, and spirituality.",
+        "bestProfessions": [
+            "Artist",
+            "Musician",
+            "Healer",
+            "Psychologist",
+            "Poet"
+        ],
+        "loveCompatibility": [
+            "Best: Cancer, Scorpio, Taurus",
+            "Worst: Gemini, Sagittarius"
+        ],
+        "financialHabits": "Not very money-oriented but can attract wealth through creativity.",
+        "spiritualTraits": "Highly intuitive but need grounding.",
+        "health": "Prone to sleep disorders, foot problems, and emotional stress.",
+        "luckyNumbers": [
+            3,
+            9,
+            12
+        ],
+        "luckyColors": [
+            "Sea Green",
+            "Lavender"
+        ],
+        "famousPersonalities": [
+            "Aamir Khan",
+            "Shraddha Kapoor",
+            "Shankar Mahadevan",
+            "Lord Vishnu (symbol of divine compassion)"
+        ],
+        "advice": "Stay practical and set clear boundaries in relationships."
+    }
+    ]
+  
+  

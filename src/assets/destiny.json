@@ -1,0 +1,136 @@
+[
+      {
+        "number": 1,
+        "lifePurpose": "To lead, innovate, and inspire others with originality.",
+        "strengths": "Independent, ambitious, strong-willed.",
+        "challenges": "Can be stubborn, impatient, and overly self-focused.",
+        "career": ["Entrepreneur", "Leader", "Politician", "CEO"],
+        "loveAndRelationships": "Needs a partner who respects their independence.",
+        "spiritualGrowth": "Learns self-mastery and confidence.",
+        "famousPersonalities": ["Narendra Modi", "Amitabh Bachchan"],
+        "advice": "Balance ambition with humility and teamwork."
+      },
+      {
+        "number": 2,
+        "lifePurpose": "To bring harmony, cooperation, and peace to relationships.",
+        "strengths": "Diplomatic, intuitive, sensitive, cooperative.",
+        "challenges": "Overly emotional, indecisive, avoids conflict.",
+        "career": ["Counselor", "Mediator", "Healer", "Artist"],
+        "loveAndRelationships": "Seeks deep emotional bonds and stability.",
+        "spiritualGrowth": "Learns emotional balance and self-trust.",
+        "famousPersonalities": ["Mahatma Gandhi", "Shah Rukh Khan"],
+        "advice": "Trust intuition and stand firm in decisions."
+      },
+      {
+        "number": 3,
+        "lifePurpose": "To express creativity, joy, and inspiration.",
+        "strengths": "Charismatic, social, artistic, optimistic.",
+        "challenges": "Scattered, overindulgent, avoids responsibilities.",
+        "career": ["Artist", "Writer", "Performer", "Public Speaker"],
+        "loveAndRelationships": "Needs excitement and intellectual connection.",
+        "spiritualGrowth": "Learns self-expression and emotional honesty.",
+        "famousPersonalities": ["A.R. Rahman", "Sachin Tendulkar"],
+        "advice": "Focus on discipline and long-term goals."
+      },
+      {
+        "number": 4,
+        "lifePurpose": "To build stability, structure, and discipline.",
+        "strengths": "Hardworking, reliable, methodical, practical.",
+        "challenges": "Stubborn, rigid, resistant to change.",
+        "career": ["Engineer", "Manager", "Scientist", "Banker"],
+        "loveAndRelationships": "Seeks loyalty and long-term commitment.",
+        "spiritualGrowth": "Learns flexibility and adaptability.",
+        "famousPersonalities": ["Dhirubhai Ambani", "Kailash Satyarthi"],
+        "advice": "Embrace change and new perspectives."
+      },
+      {
+        "number": 5,
+        "lifePurpose": "To seek adventure, freedom, and personal growth.",
+        "strengths": "Energetic, adaptable, social, innovative.",
+        "challenges": "Impulsive, restless, struggles with commitment.",
+        "career": ["Journalist", "Entrepreneur", "Travel Guide", "Marketer"],
+        "loveAndRelationships": "Needs excitement and a flexible partner.",
+        "spiritualGrowth": "Learns discipline while maintaining freedom.",
+        "famousPersonalities": ["Virat Kohli", "Priyanka Chopra"],
+        "advice": "Balance freedom with responsibility."
+      },
+      {
+        "number": 6,
+        "lifePurpose": "To nurture, heal, and bring harmony to family and society.",
+        "strengths": "Compassionate, responsible, loving, protective.",
+        "challenges": "Overprotective, controlling, self-sacrificing.",
+        "career": ["Doctor", "Teacher", "Counselor", "Artist"],
+        "loveAndRelationships": "Seeks deep, caring, and stable relationships.",
+        "spiritualGrowth": "Learns to set healthy boundaries.",
+        "famousPersonalities": ["Mother Teresa", "Lata Mangeshkar"],
+        "advice": "Avoid over-sacrificing for others."
+      },
+      {
+        "number": 7,
+        "lifePurpose": "To seek wisdom, knowledge, and spiritual growth.",
+        "strengths": "Analytical, introspective, intuitive, philosophical.",
+        "challenges": "Detached, secretive, overly skeptical.",
+        "career": ["Scientist", "Philosopher", "Spiritual Teacher", "Author"],
+        "loveAndRelationships": "Seeks a deep, intellectual bond.",
+        "spiritualGrowth": "Learns to balance logic and intuition.",
+        "famousPersonalities": ["Swami Vivekananda", "Jiddu Krishnamurti"],
+        "advice": "Engage with the world while maintaining inner wisdom."
+      },
+      {
+        "number": 8,
+        "lifePurpose": "To achieve power, success, and material abundance.",
+        "strengths": "Ambitious, disciplined, strategic, strong-willed.",
+        "challenges": "Workaholic, materialistic, struggles with control.",
+        "career": ["CEO", "Investor", "Politician", "Banker"],
+        "loveAndRelationships": "Needs a partner who supports their ambitions.",
+        "spiritualGrowth": "Learns emotional and spiritual balance.",
+        "famousPersonalities": ["Mukesh Ambani", "Ratan Tata"],
+        "advice": "Balance success with inner fulfillment."
+      },
+      {
+        "number": 9,
+        "lifePurpose": "To serve humanity and inspire global change.",
+        "strengths": "Compassionate, visionary, artistic, humanitarian.",
+        "challenges": "Overly idealistic, emotional, struggles with boundaries.",
+        "career": ["Humanitarian", "Spiritual Leader", "Artist", "Teacher"],
+        "loveAndRelationships": "Seeks a compassionate and giving partner.",
+        "spiritualGrowth": "Learns to balance self-care with service.",
+        "famousPersonalities": ["Rabindranath Tagore", "A.P.J. Abdul Kalam"],
+        "advice": "Stay grounded while following your dreams."
+      },
+      {
+        "number": 11,
+        "lifePurpose": "To inspire and enlighten others through spiritual wisdom.",
+        "strengths": "Visionary, intuitive, deeply spiritual.",
+        "challenges": "Overly sensitive, prone to anxiety, self-doubt.",
+        "career": ["Spiritual Guru", "Psychic", "Artist", "Philosopher"],
+        "loveAndRelationships": "Seeks a deep, soulful connection.",
+        "spiritualGrowth": "Learns to trust intuition while staying grounded.",
+        "famousPersonalities": ["Osho Rajneesh", "Rabindranath Tagore"],
+        "advice": "Embrace spiritual gifts while managing emotions."
+      },
+      {
+        "number": 22,
+        "lifePurpose": "To build great things that impact the world positively.",
+        "strengths": "Master builder, highly disciplined, visionary.",
+        "challenges": "Feels overwhelmed by big goals, perfectionist.",
+        "career": ["Engineer", "CEO", "Architect", "Politician"],
+        "loveAndRelationships": "Needs a partner who understands their ambitions.",
+        "spiritualGrowth": "Learns to balance ambition with patience.",
+        "famousPersonalities": ["Dr. B.R. Ambedkar", "Ratan Tata"],
+        "advice": "Balance work with personal well-being."
+      },
+      {
+        "number": 33,
+        "lifePurpose": "To spread love, healing, and enlightenment to humanity.",
+        "strengths": "Deeply compassionate, wise, nurturing.",
+        "challenges": "Emotionally intense, struggles with self-sacrifice.",
+        "career": ["Healer", "Teacher", "Philanthropist", "Spiritual Leader"],
+        "loveAndRelationships": "Seeks a partner who shares humanitarian values.",
+        "spiritualGrowth": "Learns to uplift others without losing themselves.",
+        "famousPersonalities": ["Sai Baba", "Mata Amritanandamayi"],
+        "advice": "Use your wisdom to guide and heal others."
+      }
+    ]
+  
+  

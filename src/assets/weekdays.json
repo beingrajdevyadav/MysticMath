@@ -1,0 +1,373 @@
+[
+        {
+            "name": "Monday",
+            "rulingPlanet": "Moon",
+            "qualities": [
+                "Emotional",
+                "Intuitive",
+                "Caring",
+                "Creative",
+                "Sensitive"
+            ],
+            "strengths": [
+                "Nurturing",
+                "Empathetic",
+                "Imaginative",
+                "Strong Memory"
+            ],
+            "weaknesses": [
+                "Moody",
+                "Over-Sensitive",
+                "Indecisive",
+                "Easily Hurt"
+            ],
+            "life": "Monday-born individuals are deeply emotional, family-oriented, and have a strong connection to their inner world.",
+            "career": "They excel in nurturing professions, healthcare, arts, and counseling.",
+            "bestProfessions": [
+                "Doctor",
+                "Psychologist",
+                "Chef",
+                "Artist",
+                "Writer"
+            ],
+            "loveCompatibility": [
+                "Best: Thursday, Friday",
+                "Worst: Saturday"
+            ],
+            "financialHabits": "They prefer financial stability but may spend based on emotions.",
+            "spiritualTraits": "Highly intuitive and benefit from meditation.",
+            "health": "Prone to digestive and stress-related issues.",
+            "luckyNumbers": [
+                2,
+                7,
+                11
+            ],
+            "luckyColors": [
+                "White",
+                "Light Blue"
+            ],
+            "famousPersonalities": [
+                "Rabindranath Tagore",
+                "Mahatma Gandhi"
+            ],
+            "advice": "Manage emotions wisely and avoid overthinking."
+        },
+        {
+            "name": "Tuesday",
+            "rulingPlanet": "Mars",
+            "qualities": [
+                "Energetic",
+                "Courageous",
+                "Determined",
+                "Strong-Willed",
+                "Competitive"
+            ],
+            "strengths": [
+                "Brave",
+                "Hardworking",
+                "Leadership",
+                "Action-Oriented"
+            ],
+            "weaknesses": [
+                "Impulsive",
+                "Short-Tempered",
+                "Stubborn",
+                "Aggressive"
+            ],
+            "life": "Tuesday-born individuals are natural leaders, full of drive and ambition.",
+            "career": "They thrive in competitive and physical careers.",
+            "bestProfessions": [
+                "Athlete",
+                "Police Officer",
+                "Entrepreneur",
+                "Surgeon",
+                "Engineer"
+            ],
+            "loveCompatibility": [
+                "Best: Thursday, Sunday",
+                "Worst: Monday"
+            ],
+            "financialHabits": "Risk-takers in finance, can earn well but may overspend.",
+            "spiritualTraits": "Need to channel energy into productive spiritual practices.",
+            "health": "Prone to injuries, blood-related issues, and high stress.",
+            "luckyNumbers": [
+                9,
+                18,
+                27
+            ],
+            "luckyColors": [
+                "Red",
+                "Maroon"
+            ],
+            "famousPersonalities": [
+                "Subhas Chandra Bose",
+                "Sachin Tendulkar"
+            ],
+            "advice": "Control impulsiveness and practice patience."
+        },
+        {
+            "name": "Wednesday",
+            "rulingPlanet": "Mercury",
+            "qualities": [
+                "Intelligent",
+                "Communicative",
+                "Adaptable",
+                "Quick-Witted",
+                "Logical"
+            ],
+            "strengths": [
+                "Good Speaker",
+                "Analytical",
+                "Social",
+                "Clever"
+            ],
+            "weaknesses": [
+                "Overthinking",
+                "Restless",
+                "Inconsistent",
+                "Talkative"
+            ],
+            "life": "Wednesday-born individuals are curious, love learning, and excel in communication.",
+            "career": "They do well in media, writing, trade, and business.",
+            "bestProfessions": [
+                "Journalist",
+                "Teacher",
+                "Salesperson",
+                "Trader",
+                "Software Developer"
+            ],
+            "loveCompatibility": [
+                "Best: Friday, Saturday",
+                "Worst: Tuesday"
+            ],
+            "financialHabits": "Good at financial planning but may be inconsistent.",
+            "spiritualTraits": "They seek intellectual understanding of spirituality.",
+            "health": "Prone to nervous system issues and anxiety.",
+            "luckyNumbers": [
+                5,
+                14,
+                23
+            ],
+            "luckyColors": [
+                "Green",
+                "Light Yellow"
+            ],
+            "famousPersonalities": [
+                "Amitabh Bachchan",
+                "Ratan Tata"
+            ],
+            "advice": "Focus on consistency and avoid overanalyzing."
+        },
+        {
+            "name": "Thursday",
+            "rulingPlanet": "Jupiter",
+            "qualities": [
+                "Wise",
+                "Optimistic",
+                "Philosophical",
+                "Generous",
+                "Spiritual"
+            ],
+            "strengths": [
+                "Leadership",
+                "Teaching Ability",
+                "Charitable",
+                "Visionary"
+            ],
+            "weaknesses": [
+                "Over-Trusting",
+                "Egoistic",
+                "Careless",
+                "Overconfident"
+            ],
+            "life": "Thursday-born individuals are wise, lucky, and naturally inclined toward knowledge and spirituality.",
+            "career": "They succeed in teaching, law, finance, and religious studies.",
+            "bestProfessions": [
+                "Professor",
+                "Judge",
+                "Financial Advisor",
+                "Spiritual Leader",
+                "Politician"
+            ],
+            "loveCompatibility": [
+                "Best: Monday, Sunday",
+                "Worst: Wednesday"
+            ],
+            "financialHabits": "They attract wealth but need to manage spending wisely.",
+            "spiritualTraits": "Deeply connected to higher wisdom and spirituality.",
+            "health": "Prone to liver and obesity-related issues.",
+            "luckyNumbers": [
+                3,
+                12,
+                21
+            ],
+            "luckyColors": [
+                "Yellow",
+                "Golden"
+            ],
+            "famousPersonalities": [
+                "APJ Abdul Kalam",
+                "Swami Vivekananda"
+            ],
+            "advice": "Stay humble and avoid overconfidence."
+        },
+        {
+            "name": "Friday",
+            "rulingPlanet": "Venus",
+            "qualities": [
+                "Charming",
+                "Artistic",
+                "Romantic",
+                "Diplomatic",
+                "Pleasure-Seeking"
+            ],
+            "strengths": [
+                "Creative",
+                "Loving",
+                "Attractive",
+                "Harmonious"
+            ],
+            "weaknesses": [
+                "Materialistic",
+                "Indulgent",
+                "Lazy",
+                "Overly Sentimental"
+            ],
+            "life": "Friday-born individuals have a strong love for beauty, relationships, and luxury.",
+            "career": "They do well in arts, entertainment, business, and fashion.",
+            "bestProfessions": [
+                "Artist",
+                "Singer",
+                "Fashion Designer",
+                "Interior Decorator",
+                "Businessperson"
+            ],
+            "loveCompatibility": [
+                "Best: Monday, Wednesday",
+                "Worst: Tuesday"
+            ],
+            "financialHabits": "Spenders who need to focus on saving.",
+            "spiritualTraits": "Enjoy spirituality in an aesthetic form (music, dance, rituals).",
+            "health": "Prone to throat, kidney, and reproductive issues.",
+            "luckyNumbers": [
+                6,
+                15,
+                24
+            ],
+            "luckyColors": [
+                "Pink",
+                "White"
+            ],
+            "famousPersonalities": [
+                "Lata Mangeshkar",
+                "Yash Chopra"
+            ],
+            "advice": "Balance pleasure with practicality."
+        },
+        {
+            "name": "Saturday",
+            "rulingPlanet": "Saturn",
+            "qualities": [
+                "Disciplined",
+                "Responsible",
+                "Hardworking",
+                "Serious",
+                "Determined"
+            ],
+            "strengths": [
+                "Patient",
+                "Strong-Willed",
+                "Organized",
+                "Resilient"
+            ],
+            "weaknesses": [
+                "Pessimistic",
+                "Lonely",
+                "Rigid",
+                "Overly Serious"
+            ],
+            "life": "Saturday-born individuals are disciplined, practical, and deeply responsible.",
+            "career": "They excel in law, government, finance, and construction.",
+            "bestProfessions": [
+                "Lawyer",
+                "Engineer",
+                "Scientist",
+                "Government Official",
+                "Judge"
+            ],
+            "loveCompatibility": [
+                "Best: Wednesday, Friday",
+                "Worst: Monday"
+            ],
+            "financialHabits": "Cautious spenders who value long-term investments.",
+            "spiritualTraits": "Seek deep wisdom but may struggle with detachment.",
+            "health": "Prone to joint pain, skin issues, and stress.",
+            "luckyNumbers": [
+                8,
+                17,
+                26
+            ],
+            "luckyColors": [
+                "Black",
+                "Dark Blue"
+            ],
+            "famousPersonalities": [
+                "Dr. B.R. Ambedkar",
+                "Narendra Modi"
+            ],
+            "advice": "Embrace joy and balance work with relaxation."
+        },
+        {
+            "name": "Sunday",
+            "rulingPlanet": "Sun",
+            "qualities": [
+                "Confident",
+                "Ambitious",
+                "Leader",
+                "Charismatic",
+                "Bold"
+            ],
+            "strengths": [
+                "Visionary",
+                "Strong Personality",
+                "Motivational",
+                "Self-Reliant"
+            ],
+            "weaknesses": [
+                "Egoistic",
+                "Domineering",
+                "Proud",
+                "Stubborn"
+            ],
+            "life": "Sunday-born individuals are natural leaders with a strong will and desire for success.",
+            "career": "They excel in leadership, politics, entrepreneurship, and the arts.",
+            "bestProfessions": [
+                "CEO",
+                "Politician",
+                "Actor",
+                "Motivational Speaker",
+                "Business Leader"
+            ],
+            "loveCompatibility": [
+                "Best: Tuesday, Thursday",
+                "Worst: Saturday"
+            ],
+            "financialHabits": "They attract wealth but need to control extravagant spending.",
+            "spiritualTraits": "Seek recognition but need to cultivate humility.",
+            "health": "Prone to heart and eye issues.",
+            "luckyNumbers": [
+                1,
+                10,
+                19
+            ],
+            "luckyColors": [
+                "Gold",
+                "Orange"
+            ],
+            "famousPersonalities": [
+                "Amitabh Bachchan",
+                "Mahatma Gandhi"
+            ],
+            "advice": "Stay humble and respect others’ opinions."
+        }
+    ]
