@@ -5,24 +5,24 @@ import { getFromLocalStorage, saveToLocalStorage } from "../utils/localStorage";
 const localData = getFromLocalStorage("user");
 
 
-const initialState =localData || {
-  fullName: "",
-  dateOfBirth: "",
-  destinyNumber: "",
-  lifePathNumber: "",
-  personalityNumber: "",
-  soulUrgeNumber: "",
-  month:"",
-  astroSign:"",
-  day: "",
+const initialState = localData || {
+    fullName: "",
+    dateOfBirth: "",
+    destinyNumber: "",
+    lifePathNumber: "",
+    personalityNumber: "",
+    soulUrgeNumber: "",
+    month: "",
+    astroSign: "",
+    day: "",
 };
 
 const userSlice = createSlice({
-    name:"user",
+    name: "user",
     initialState,
 
-    reducers:{
-        setUser : (state, action)=>{
+    reducers: {
+        setUser: (state, action) => {
             // to set data in state
             state.fullName = action.payload.fullName;
             state.dateOfBirth = action.payload.dateOfBirth;
@@ -36,6 +36,23 @@ const userSlice = createSlice({
 
             // to save state in local storage
             saveToLocalStorage("user", state);
+        },
+
+        clearUser: (state) => {
+            // to clear state
+            state.fullName = "";
+            state.dateOfBirth = "";
+            state.destinyNumber = "";
+            state.lifePathNumber = "";
+            state.personalityNumber = "";
+            state.soulUrgeNumber = "";
+            state.month = "";
+            state.astroSign = "";
+            state.day = "";
+
+            // to save state
+            saveToLocalStorage("user", state);
+
         }
     }
 })
