@@ -5,6 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 1rem;
 }
 
 .form-container form{
@@ -65,4 +66,13 @@ form h3{
     font-size: 14px;
     border-radius: 5px;
     color: #ddd;
+}
+
+
+/* Form Responsiveness */
+@media screen and (max-width:600px) {
+  .form-container  form{
+width: 100%;
+padding:2rem 1rem;
+    }
 }
