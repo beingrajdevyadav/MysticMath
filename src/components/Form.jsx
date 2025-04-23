@@ -24,11 +24,14 @@ const Form = () => {
 
         // to check full name
         if(!fullName){
-            showErrorToast("Enter Your Name! 😌")
+            showErrorToast("Full Name Required! 😌");
+            return;
         }
 
-        console.log("Full Name: ", fullName);
-        console.log("Date of Birth: ", dob);
+        if(!dob){
+            showErrorToast("Date Of Birth Required! 😌");
+            return;
+        }
         
     }
 
