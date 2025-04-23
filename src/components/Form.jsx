@@ -23,16 +23,27 @@ const Form = () => {
 
 
         // to check full name
-        if(!fullName){
+        if (!fullName) {
             showErrorToast("Full Name Required! 😌");
             return;
         }
 
-        if(!dob){
+
+        // to check date of birth
+        if (!dob) {
             showErrorToast("Date Of Birth Required! 😌");
             return;
         }
-        
+
+
+        // to extract dd, mm and yyyy from date of birth
+
+        const date = new Date(dob)
+        const dd = date.getDate();
+        const mm = date.getMonth() + 1;
+        const yyyy = date.getFullYear();
+
+        console.log(dd, mm, yyyy)
     }
 
     return (
