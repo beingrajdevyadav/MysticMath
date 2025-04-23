@@ -6,7 +6,7 @@
     align-items: center;
     text-align: center;
     background-color: #333;
-    color: #ddd;
+    color: #ccc;
 }
 
 .hero-content h1{
@@ -14,4 +14,16 @@
 }
 .hero-content p{
     margin-top: 1rem;
+}
+
+@media screen and (max-width:600px) {
+    .hero-content{
+        padding: 1rem;
+    }
+    .hero-content h1{
+        font-size: 2rem;
+    }
+    .hero-content p{
+        font-size: 14px;
+    }
 }
