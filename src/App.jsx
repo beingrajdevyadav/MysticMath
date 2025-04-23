@@ -9,11 +9,11 @@ function App() {
   return (
     <>
       <header>
-       <h3><span>M</span> ysticMath</h3>
+        <h3><span>M</span> ysticMath</h3>
       </header>
-<Hero/>
+      <Hero />
       {/* <Preloader/> */}
-      <Form/>
+      <Form />
     </>
   )
 }
