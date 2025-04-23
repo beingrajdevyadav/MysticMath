@@ -1,5 +1,6 @@
 
 import './App.css'
+import Preloader from './components/Preloader'
 
 function App() {
 
@@ -8,6 +9,8 @@ function App() {
       <header>
        
       </header>
+
+      <Preloader/>
     </>
   )
 }
