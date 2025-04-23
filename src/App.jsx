@@ -5,12 +5,9 @@ function App() {
 
   return (
     <>
-     <h1>Mystic Math</h1>
-     <hr />
-
-     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolore optio id suscipit sapiente consequatur ab ea blanditiis maxime voluptatibus.</p>
-
-     <button>Click</button>
+     <header>
+      <h1>MysticMath</h1>
+     </header>
     </>
   )
 }
