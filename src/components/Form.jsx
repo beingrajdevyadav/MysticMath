@@ -1,5 +1,9 @@
 import React, { useRef, useState } from 'react'
-import "../css/form.css"
+import { showErrorToast } from "../utils/toast";
+
+import "../css/form.css";
+
+
 const Form = () => {
     const [fullName, setFullName] = useState("");
     const [dob, setDob] = useState("");
@@ -17,8 +21,15 @@ const Form = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
 
+
+        // to check full name
+        if(!fullName){
+            showErrorToast("Enter Your Name! 😌")
+        }
+
         console.log("Full Name: ", fullName);
         console.log("Date of Birth: ", dob);
+        
     }
 
     return (
