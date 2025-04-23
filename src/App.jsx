@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <header>
-       <h2>MysticMath</h2>
+       <h3><span>M</span> ysticMath</h3>
       </header>
 <Hero/>
       {/* <Preloader/> */}
