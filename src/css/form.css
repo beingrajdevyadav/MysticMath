@@ -1,4 +1,4 @@
-.form-container{
+.form-container {
     width: 100%;
     height: 70vh;
     background-color: #f0f0f0;
@@ -8,21 +8,24 @@
     padding: 1rem;
 }
 
-.form-container form{
+.form-container form {
     width: 30%;
     padding: 2rem;
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0px 0px 10px #0000002b;
 }
-form h3{
+
+form h3 {
     margin-bottom: .5rem;
     text-align: center;
 }
-.input-container{
+
+.input-container {
     padding: .5rem 0;
 }
-.input-container input{
+
+.input-container input {
     width: 100%;
     padding: 15px;
     outline: none;
@@ -31,9 +34,9 @@ form h3{
     color: #555;
 }
 
-.input-container button{
-   height: 35px;
-   width: 35px;
+.input-container button {
+    height: 35px;
+    width: 35px;
     outline: none;
     border: none;
     border-radius: 50%;
@@ -41,11 +44,13 @@ form h3{
     color: #ddd;
     background-color: #555;
 }
-.input-container label{
+
+.input-container label {
     font-size: 14px;
     color: #555;
 }
-.flex{
+
+.flex {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -55,7 +60,7 @@ form h3{
     padding: .5rem;
 }
 
-.submit-btn{
+.submit-btn {
     width: 100%;
     border: none;
     outline: none;
@@ -71,8 +76,8 @@ form h3{
 
 /* Form Responsiveness */
 @media screen and (max-width:600px) {
-  .form-container  form{
-width: 100%;
-padding:2rem 1rem;
+    .form-container form {
+        width: 100%;
+        padding: 2rem 1rem;
     }
 }
