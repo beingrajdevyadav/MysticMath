@@ -1,12 +1,12 @@
 import React from 'react'
-
+import "../css/footer.css"
 const Footer = () => {
     const date = new Date();
     return (
         <div className='footer'>
             <div className="footer-content">
                 <p>MysticMath By Rajdev Yadav</p>
-                <p>Last Update : {date.toLocaleDateString()}</p>
+                <p>All Rights Reserved. &copy; {date.getFullYear()}</p>
             </div>
         </div>
     )
