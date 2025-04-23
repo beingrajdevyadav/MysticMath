@@ -9,3 +9,10 @@ export const showSuccessToast = (message)=>{
 };
 
 
+export const showErrorToast = (message)=>{
+    toast.error(message, {
+        position:"top-right",
+        autoClose:3000,
+        theme:"dark",
+    });
+};
