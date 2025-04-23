@@ -1,6 +1,7 @@
 
 import './App.css'
 import Form from './components/Form'
+import Hero from './components/Hero'
 import Preloader from './components/Preloader'
 
 function App() {
@@ -10,8 +11,8 @@ function App() {
       <header>
        <h2>MysticMath</h2>
       </header>
-
-      <Preloader/>
+<Hero/>
+      {/* <Preloader/> */}
       <Form/>
     </>
   )
