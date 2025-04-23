@@ -5,7 +5,7 @@ const Preloader = () => {
         <>
             <div className='logo'>
                 <div className="icon">
-                    <i class="fa-solid fa-wand-sparkles"></i>
+                    <i className="fa-solid fa-wand-sparkles"></i>
                     <p> MysticMath</p>
                 </div>
 
