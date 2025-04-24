@@ -25,6 +25,7 @@ function App() {
   <Route path="/" element={<Index />} />
   <Route path='/home' element={<Home/>} />
   <Route path='/astro-sign' element={<AstroSign/>} />
+  <Route path='/birthday' element={<Birthday/>} />
 </Routes>
 
 
