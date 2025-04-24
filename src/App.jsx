@@ -27,6 +27,7 @@ function App() {
   <Route path='/astro-sign' element={<AstroSign/>} />
   <Route path='/birthday' element={<Birthday/>} />
   <Route path='/day' element={<Day/>} />
+  <Route path='/month' element={<Month/>} />
 </Routes>
 
 
