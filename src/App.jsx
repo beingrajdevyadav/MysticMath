@@ -31,6 +31,7 @@ function App() {
   <Route path='/destiny-number' element={<DestinyNumber/>} />
   <Route path='/life-path-number' element={<LifePathNumber/>} />
   <Route path='/soul-urge-number' element={<SoulUrgeNumber/>} />
+  <Route path='/maturity-number' element={<MaturityNumber/>} />
 </Routes>
 
 
