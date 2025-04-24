@@ -28,3 +28,18 @@ export const getAstroSign = (dd, mm) => {
     }
     return "Invalid Date";
 };
+
+
+// Function to get weekday name based on month number
+export const getDayName = (dd, mm, yyyy) => {
+    const date = new Date(yyyy, mm - 1, dd);
+    const weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    return weekdays[date.getDay()];
+}
+
+// Function to get month name based on month number
+// export const getMonthName = (mm) => {
+//     const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+//     return months[mm - 1];
+// }
+
