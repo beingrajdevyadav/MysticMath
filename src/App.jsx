@@ -3,8 +3,16 @@ import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import Footer from './components/Footer'
 import Index from './pages/Index'
-
 import Home from './pages/Home'
+import AstroSign from './pages/AstroSign'
+import Birthday from './pages/Birthday'
+import Day from './pages/Day'
+import Month from './pages/Month'
+import DestinyNumber from './pages/DestinyNumber'
+import LifePathNumber from './pages/LifePathNumber'
+import SoulUrgeNumber from './pages/SoulUrgeNumber'
+import MaturityNumber from './pages/MaturityNumber'
+
 function App() {
 
   return (
@@ -16,6 +24,7 @@ function App() {
 <Routes>
   <Route path="/" element={<Index />} />
   <Route path='/home' element={<Home/>} />
+  <Route path='/astro-sign' element={<AstroSign/>} />
 </Routes>
 
 
