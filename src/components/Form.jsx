@@ -57,7 +57,7 @@ const Form = () => {
             month: getMonthName(mm),
             astroSign: getAstroSign(dd, mm),
             day: getDayName(dd, mm, yyyy),
-            maturityNumber: getMaturityNumber(dd, mm, yyyy),
+            maturityNumber: getMaturityNumber(fullName, dd, mm, yyyy),
             birthday: dd,
         }
 
