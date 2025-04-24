@@ -143,3 +143,4 @@ export const getMaturityNumber = (fullName, dd, mm, yyyy) => {
 
     return destinyNumber + lifePathNumber;
 };
+

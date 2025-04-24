@@ -1,0 +1,124 @@
+ [
+      {
+        "number": 1,
+        "title": "The Leader",
+        "prediction": "In your later years, you will fully step into your power and lead with confidence. Independence and self-reliance will shape your journey.",
+        "personalityTraits": ["Independent", "Ambitious", "Innovative", "Confident"],
+        "careerPaths": ["Entrepreneurship", "Leadership", "Politics", "Creative Direction"],
+        "challenges": ["Overconfidence", "Isolation", "Impatience"],
+        "strengths": ["Pioneering spirit", "Courage", "Original thinking"],
+        "lifePurpose": "To lead by example and inspire others to be self-sufficient."
+      },
+      {
+        "number": 2,
+        "title": "The Peacemaker",
+        "prediction": "Your maturity years will bring emotional depth, sensitivity, and the desire to build harmonious relationships.",
+        "personalityTraits": ["Diplomatic", "Empathetic", "Cooperative", "Intuitive"],
+        "careerPaths": ["Counseling", "Mediation", "Human Resources", "Arts"],
+        "challenges": ["Over-sensitivity", "Dependency", "Avoiding confrontation"],
+        "strengths": ["Peacemaking", "Teamwork", "Listening"],
+        "lifePurpose": "To bring balance and peace to relationships and communities."
+      },
+      {
+        "number": 3,
+        "title": "The Creative",
+        "prediction": "You will embrace joy and creativity in your mature years. Expression through art or communication will flourish.",
+        "personalityTraits": ["Expressive", "Optimistic", "Sociable", "Imaginative"],
+        "careerPaths": ["Writing", "Performing Arts", "Marketing", "Design"],
+        "challenges": ["Scattered energy", "Superficiality", "Avoiding responsibility"],
+        "strengths": ["Charisma", "Creativity", "Positive influence"],
+        "lifePurpose": "To uplift and inspire through joyful self-expression."
+      },
+      {
+        "number": 4,
+        "title": "The Builder",
+        "prediction": "Your life will be defined by structure, stability, and legacy-building during maturity.",
+        "personalityTraits": ["Disciplined", "Practical", "Reliable", "Hardworking"],
+        "careerPaths": ["Engineering", "Accounting", "Law Enforcement", "Construction"],
+        "challenges": ["Rigidity", "Stubbornness", "Overworking"],
+        "strengths": ["Work ethic", "Stability", "Planning"],
+        "lifePurpose": "To create strong foundations and systems that last."
+      },
+      {
+        "number": 5,
+        "title": "The Adventurer",
+        "prediction": "Your mature years will be filled with dynamic experiences and personal freedom.",
+        "personalityTraits": ["Adventurous", "Versatile", "Energetic", "Curious"],
+        "careerPaths": ["Travel Industry", "Media", "Sales", "Public Speaking"],
+        "challenges": ["Restlessness", "Impulsivity", "Fear of commitment"],
+        "strengths": ["Adaptability", "Communication", "Charisma"],
+        "lifePurpose": "To experience life fully and teach others the value of freedom and change."
+      },
+      {
+        "number": 6,
+        "title": "The Nurturer",
+        "prediction": "Family, love, and service will define your mature years. You will find fulfillment in caring for others.",
+        "personalityTraits": ["Loving", "Responsible", "Supportive", "Protective"],
+        "careerPaths": ["Teaching", "Healthcare", "Community Work", "Counseling"],
+        "challenges": ["Over-giving", "Control issues", "Martyrdom"],
+        "strengths": ["Compassion", "Responsibility", "Emotional Intelligence"],
+        "lifePurpose": "To create harmony through love, care, and service."
+      },
+      {
+        "number": 7,
+        "title": "The Seeker",
+        "prediction": "You will crave knowledge and spiritual understanding. Solitude may become a source of great strength.",
+        "personalityTraits": ["Analytical", "Introspective", "Spiritual", "Private"],
+        "careerPaths": ["Research", "Psychology", "Philosophy", "Tech"],
+        "challenges": ["Isolation", "Skepticism", "Emotional detachment"],
+        "strengths": ["Insight", "Wisdom", "Spiritual growth"],
+        "lifePurpose": "To seek truth and help others gain deeper understanding of life."
+      },
+      {
+        "number": 8,
+        "title": "The Powerhouse",
+        "prediction": "Later life brings wealth potential and leadership roles. You'll manage resources with wisdom.",
+        "personalityTraits": ["Authoritative", "Strategic", "Goal-Oriented", "Driven"],
+        "careerPaths": ["Business", "Finance", "Politics", "Management"],
+        "challenges": ["Workaholism", "Power struggles", "Materialism"],
+        "strengths": ["Leadership", "Ambition", "Manifestation ability"],
+        "lifePurpose": "To create abundance and use power responsibly."
+      },
+      {
+        "number": 9,
+        "title": "The Humanitarian",
+        "prediction": "You will be called to serve humanity. Compassion and philanthropy will define your mature years.",
+        "personalityTraits": ["Compassionate", "Idealistic", "Generous", "Artistic"],
+        "careerPaths": ["Non-Profit", "Healing Arts", "Teaching", "Spiritual Guidance"],
+        "challenges": ["Letting go", "Victimhood", "Over-sacrifice"],
+        "strengths": ["Empathy", "Global awareness", "Wisdom"],
+        "lifePurpose": "To serve others and spread love on a large scale."
+      },
+      {
+        "number": 11,
+        "title": "The Visionary",
+        "prediction": "Your mature years will awaken deep spiritual insight and a powerful connection to the collective consciousness.",
+        "personalityTraits": ["Inspiring", "Intuitive", "Idealistic", "Artistic"],
+        "careerPaths": ["Spiritual Leadership", "Healing", "Writing", "Teaching"],
+        "challenges": ["Emotional overwhelm", "Perfectionism", "Self-doubt"],
+        "strengths": ["Spiritual gifts", "Charisma", "High ideals"],
+        "lifePurpose": "To awaken and guide others with vision and inspiration."
+      },
+      {
+        "number": 22,
+        "title": "The Master Builder",
+        "prediction": "In maturity, you’ll realize your ability to create something of lasting value for the world.",
+        "personalityTraits": ["Visionary", "Disciplined", "Strategic", "Practical"],
+        "careerPaths": ["Architecture", "Business Leadership", "Public Service", "Education"],
+        "challenges": ["Self-pressure", "Fear of failure", "Perfectionism"],
+        "strengths": ["Execution of vision", "Global impact", "Persistence"],
+        "lifePurpose": "To build a legacy that benefits humanity."
+      },
+      {
+        "number": 33,
+        "title": "The Master Healer",
+        "prediction": "You will shine as a spiritual teacher and humanitarian, spreading love, healing, and understanding.",
+        "personalityTraits": ["Selfless", "Loving", "Visionary", "Nurturing"],
+        "careerPaths": ["Healing Professions", "Spiritual Guidance", "Education", "Activism"],
+        "challenges": ["Overwhelm", "Self-neglect", "Emotional burnout"],
+        "strengths": ["Compassion", "Spiritual insight", "Healing presence"],
+        "lifePurpose": "To heal the world through unconditional love and wisdom."
+      }
+    ]
+  
+  
