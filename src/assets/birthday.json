@@ -1,0 +1,314 @@
+ [
+      {
+        "number": 1,
+        "title": "The Pioneer",
+        "prediction": "People born on the 1st are natural leaders. They crave independence and are highly original thinkers.",
+        "personalityTraits": ["Independent", "Innovative", "Confident", "Driven"],
+        "careerPaths": ["Entrepreneur", "Leader", "Inventor", "Artist"],
+        "challenges": ["Ego", "Stubbornness", "Impatience"],
+        "strengths": ["Initiative", "Leadership", "Creativity"],
+        "lifePurpose": "To lead with originality and inspire others to follow their path."
+      },
+      {
+        "number": 2,
+        "title": "The Diplomat",
+        "prediction": "Born on the 2nd, you’re naturally peaceful and cooperative. You excel in creating harmony in relationships.",
+        "personalityTraits": ["Sensitive", "Intuitive", "Gentle", "Supportive"],
+        "careerPaths": ["Counselor", "Mediator", "Artist", "Healer"],
+        "challenges": ["Over-sensitivity", "Fear of confrontation", "Indecisiveness"],
+        "strengths": ["Cooperation", "Empathy", "Balance"],
+        "lifePurpose": "To promote unity and bring peace to the world."
+      },
+      {
+        "number": 3,
+        "title": "The Communicator",
+        "prediction": "Born on the 3rd, you are expressive, joyful, and creative. You are a natural performer and storyteller.",
+        "personalityTraits": ["Sociable", "Creative", "Expressive", "Optimistic"],
+        "careerPaths": ["Actor", "Writer", "Artist", "Public Speaker"],
+        "challenges": ["Scattered energy", "Avoidance of responsibility", "Mood swings"],
+        "strengths": ["Communication", "Charisma", "Joy"],
+        "lifePurpose": "To inspire and entertain through your unique self-expression."
+      },
+      {
+        "number": 4,
+        "title": "The Organizer",
+        "prediction": "Those born on the 4th are practical, disciplined, and hardworking. You’re a builder of systems and routines.",
+        "personalityTraits": ["Reliable", "Grounded", "Logical", "Disciplined"],
+        "careerPaths": ["Engineer", "Analyst", "Manager", "Lawyer"],
+        "challenges": ["Rigidity", "Overworking", "Resistance to change"],
+        "strengths": ["Stability", "Dedication", "Structure"],
+        "lifePurpose": "To create strong foundations and bring order to chaos."
+      },
+      {
+        "number": 5,
+        "title": "The Free Spirit",
+        "prediction": "Born on the 5th, you thrive on adventure, freedom, and variety. Change is your natural state.",
+        "personalityTraits": ["Energetic", "Curious", "Adaptable", "Witty"],
+        "careerPaths": ["Sales", "Travel Blogger", "Performer", "Journalist"],
+        "challenges": ["Restlessness", "Impulsiveness", "Commitment issues"],
+        "strengths": ["Versatility", "Charm", "Fearlessness"],
+        "lifePurpose": "To experience life through constant growth and exploration."
+      },
+      {
+        "number": 6,
+        "title": "The Caregiver",
+        "prediction": "If born on the 6th, you have a deep sense of responsibility for others. You're nurturing and often put others first.",
+        "personalityTraits": ["Caring", "Loyal", "Protective", "Romantic"],
+        "careerPaths": ["Teacher", "Nurse", "Therapist", "Interior Designer"],
+        "challenges": ["Over-responsibility", "Judgmental behavior", "Over-sacrifice"],
+        "strengths": ["Compassion", "Love", "Responsibility"],
+        "lifePurpose": "To create harmony through service, love, and beauty."
+      },
+      {
+        "number": 7,
+        "title": "The Thinker",
+        "prediction": "Born on the 7th, you're an analytical soul who seeks wisdom and truth. You’re introspective and spiritual.",
+        "personalityTraits": ["Analytical", "Spiritual", "Reserved", "Wise"],
+        "careerPaths": ["Researcher", "Philosopher", "Healer", "Scientist"],
+        "challenges": ["Isolation", "Overthinking", "Trust issues"],
+        "strengths": ["Insight", "Wisdom", "Spirituality"],
+        "lifePurpose": "To seek truth and share your spiritual insight with the world."
+      },
+      {
+        "number": 8,
+        "title": "The Achiever",
+        "prediction": "You were born to manifest material success. Power, ambition, and leadership are central themes.",
+        "personalityTraits": ["Ambitious", "Strategic", "Authoritative", "Organized"],
+        "careerPaths": ["CEO", "Banker", "Politician", "Real Estate"],
+        "challenges": ["Greed", "Control issues", "Work-life imbalance"],
+        "strengths": ["Manifestation", "Leadership", "Discipline"],
+        "lifePurpose": "To achieve success and use your influence wisely."
+      },
+      {
+        "number": 9,
+        "title": "The Humanitarian",
+        "prediction": "Born on the 9th, you are here to serve humanity with compassion and wisdom.",
+        "personalityTraits": ["Compassionate", "Emotional", "Generous", "Global thinker"],
+        "careerPaths": ["Philanthropist", "Artist", "Spiritual Teacher", "Social Worker"],
+        "challenges": ["Over-giving", "Bitterness", "Letting go"],
+        "strengths": ["Empathy", "Creativity", "Emotional depth"],
+        "lifePurpose": "To inspire and serve others with universal love."
+      },
+      {
+        "number": 10,
+        "title": "The Trailblazer",
+        "prediction": "Those born on the 10th are bold, determined, and often destined for greatness. You're here to start new things.",
+        "personalityTraits": ["Independent", "Innovative", "Motivated", "Courageous"],
+        "careerPaths": ["Entrepreneur", "Inventor", "Leader", "Motivational Speaker"],
+        "challenges": ["Ego", "Impatience", "Isolation"],
+        "strengths": ["Pioneering", "Leadership", "Initiative"],
+        "lifePurpose": "To lead boldly and create paths where none existed."
+      },
+      {
+        "number": 11,
+        "title": "The Illuminator",
+        "prediction": "Those born on the 11th are spiritually gifted and visionary. You have a divine connection and deep intuition.",
+        "personalityTraits": ["Visionary", "Intuitive", "Sensitive", "Inspirational"],
+        "careerPaths": ["Spiritual Guide", "Artist", "Healer", "Teacher"],
+        "challenges": ["Anxiety", "Emotional intensity", "Self-doubt"],
+        "strengths": ["Spiritual insight", "Creativity", "Empathy"],
+        "lifePurpose": "To uplift others through inspiration and spiritual awakening."
+      },
+      {
+        "number": 12,
+        "title": "The Creative Connector",
+        "prediction": "You bring joy and creativity to your environment. People are drawn to your charisma and energy.",
+        "personalityTraits": ["Sociable", "Charming", "Expressive", "Creative"],
+        "careerPaths": ["Entertainer", "Writer", "Marketing", "Event Planner"],
+        "challenges": ["Restlessness", "Overindulgence", "Overthinking"],
+        "strengths": ["Connection", "Creativity", "Communication"],
+        "lifePurpose": "To create joyful experiences and inspire through expression."
+      },
+      {
+        "number": 13,
+        "title": "The Transformer",
+        "prediction": "Those born on the 13th are builders of change. Hardworking and determined, you excel with discipline.",
+        "personalityTraits": ["Disciplined", "Grounded", "Loyal", "Resilient"],
+        "careerPaths": ["Engineer", "Scientist", "Project Manager", "Craftsperson"],
+        "challenges": ["Rigidity", "Workaholism", "Stubbornness"],
+        "strengths": ["Persistence", "Practicality", "Endurance"],
+        "lifePurpose": "To build lasting success through consistent effort and transformation."
+      },
+      {
+        "number": 14,
+        "title": "The Change Agent",
+        "prediction": "Born on the 14th, you thrive on variety and freedom. You are resourceful and adventurous.",
+        "personalityTraits": ["Adaptable", "Versatile", "Dynamic", "Quick-witted"],
+        "careerPaths": ["Journalist", "Salesperson", "Pilot", "Consultant"],
+        "challenges": ["Addictive tendencies", "Scattered focus", "Instability"],
+        "strengths": ["Communication", "Adaptability", "Persuasiveness"],
+        "lifePurpose": "To embrace change and help others grow through new experiences."
+      },
+      {
+        "number": 15,
+        "title": "The Harmonizer",
+        "prediction": "With natural charm and nurturing energy, you excel in helping others and creating beauty around you.",
+        "personalityTraits": ["Nurturing", "Creative", "Responsible", "Loving"],
+        "careerPaths": ["Counselor", "Designer", "Chef", "Coach"],
+        "challenges": ["Over-caring", "Control issues", "Insecurity"],
+        "strengths": ["Caregiving", "Creativity", "Emotional balance"],
+        "lifePurpose": "To heal and uplift others through compassion and aesthetics."
+      },
+      {
+        "number": 16,
+        "title": "The Analyst",
+        "prediction": "You are deep, spiritual, and intellectual. You're on a journey of self-discovery and truth.",
+        "personalityTraits": ["Spiritual", "Wise", "Analytical", "Private"],
+        "careerPaths": ["Philosopher", "Spiritual Teacher", "Tech Expert", "Researcher"],
+        "challenges": ["Emotional detachment", "Self-doubt", "Loneliness"],
+        "strengths": ["Insight", "Inner strength", "Spiritual growth"],
+        "lifePurpose": "To seek deeper truths and inspire awakening through wisdom."
+      },
+      {
+        "number": 17,
+        "title": "The Executive",
+        "prediction": "Born to lead and achieve, you're focused, determined, and naturally business-minded.",
+        "personalityTraits": ["Ambitious", "Strategic", "Focused", "Resilient"],
+        "careerPaths": ["Executive", "Politician", "Architect", "CEO"],
+        "challenges": ["Work-life imbalance", "Authoritarian behavior", "Over-seriousness"],
+        "strengths": ["Leadership", "Vision", "Commitment"],
+        "lifePurpose": "To succeed in building legacy and using power responsibly."
+      },
+      {
+        "number": 18,
+        "title": "The Global Giver",
+        "prediction": "You are a humanitarian with leadership skills. Your life revolves around serving on a large scale.",
+        "personalityTraits": ["Generous", "Idealistic", "Courageous", "Wise"],
+        "careerPaths": ["NGO Leader", "Educator", "Spiritual Mentor", "Doctor"],
+        "challenges": ["Over-involvement", "Emotional drain", "Victimhood"],
+        "strengths": ["Compassion", "Leadership", "Spiritual strength"],
+        "lifePurpose": "To empower others through service, compassion, and truth."
+      },
+      {
+        "number": 19,
+        "title": "The Independent Soul",
+        "prediction": "Self-reliant and unique, you walk your own path. You’re born to rise through personal effort.",
+        "personalityTraits": ["Independent", "Original", "Resilient", "Determined"],
+        "careerPaths": ["Freelancer", "Inventor", "Consultant", "Artist"],
+        "challenges": ["Isolation", "Ego", "Resistance to help"],
+        "strengths": ["Initiative", "Creativity", "Self-determination"],
+        "lifePurpose": "To carve your own path and inspire others to stand tall."
+      },
+      {
+        "number": 20,
+        "title": "The Gentle Leader",
+        "prediction": "You bring harmony, grace, and intuition into leadership. A natural at bringing people together.",
+        "personalityTraits": ["Cooperative", "Empathetic", "Graceful", "Diplomatic"],
+        "careerPaths": ["Mediator", "Coach", "HR", "Peace Activist"],
+        "challenges": ["Over-sensitivity", "Low confidence", "Avoiding conflict"],
+        "strengths": ["Empathy", "Harmony", "Emotional intelligence"],
+        "lifePurpose": "To guide others with sensitivity and a peaceful heart."
+      },
+      {
+        "number": 21,
+        "title": "The Charismatic Creative",
+        "prediction": "People born on the 21st have charm, optimism, and a flair for storytelling. You uplift those around you with your creativity.",
+        "personalityTraits": ["Charming", "Creative", "Witty", "Sociable"],
+        "careerPaths": ["Performer", "Writer", "Public Speaker", "Event Host"],
+        "challenges": ["Scattered focus", "Overindulgence", "Emotional sensitivity"],
+        "strengths": ["Expression", "Imagination", "Social skills"],
+        "lifePurpose": "To inspire others through your voice, charm, and creativity."
+      },
+      {
+        "number": 22,
+        "title": "The Master Builder",
+        "prediction": "Born on the 22nd, you’re practical and visionary. You’re here to turn dreams into reality and build something that lasts.",
+        "personalityTraits": ["Masterful", "Visionary", "Organized", "Determined"],
+        "careerPaths": ["Architect", "CEO", "Engineer", "Global Leader"],
+        "challenges": ["Perfectionism", "Overwhelm", "Workaholism"],
+        "strengths": ["Execution", "Leadership", "Vision"],
+        "lifePurpose": "To build something great that benefits humanity long-term."
+      },
+      {
+        "number": 23,
+        "title": "The Dynamic Adventurer",
+        "prediction": "You’re versatile and love to explore. With sharp communication and energy, you’re always on the move.",
+        "personalityTraits": ["Adventurous", "Quick-witted", "Energetic", "Curious"],
+        "careerPaths": ["Journalist", "Traveler", "Sales", "Performer"],
+        "challenges": ["Restlessness", "Impulsivity", "Lack of focus"],
+        "strengths": ["Adaptability", "Curiosity", "Charm"],
+        "lifePurpose": "To explore the world and share what you learn with others."
+      },
+      {
+        "number": 24,
+        "title": "The Loving Nurturer",
+        "prediction": "Born on the 24th, you’re nurturing and family-oriented. You thrive in helping others and making spaces feel like home.",
+        "personalityTraits": ["Warm", "Supportive", "Responsible", "Gentle"],
+        "careerPaths": ["Therapist", "Counselor", "Interior Designer", "Caregiver"],
+        "challenges": ["Over-dependence", "Self-sacrifice", "People-pleasing"],
+        "strengths": ["Loyalty", "Compassion", "Harmony"],
+        "lifePurpose": "To provide healing and emotional support to others through love and care."
+      },
+      {
+        "number": 25,
+        "title": "The Introspective Seeker",
+        "prediction": "You’re curious, intellectual, and drawn to the mysteries of life. You seek deeper truths in everything you do.",
+        "personalityTraits": ["Inquisitive", "Analytical", "Reserved", "Spiritual"],
+        "careerPaths": ["Scientist", "Spiritual Teacher", "Writer", "Counselor"],
+        "challenges": ["Isolation", "Overthinking", "Emotional detachment"],
+        "strengths": ["Wisdom", "Research", "Spiritual insight"],
+        "lifePurpose": "To seek hidden truths and enlighten others with your knowledge."
+      },
+      {
+        "number": 26,
+        "title": "The Business Diplomat",
+        "prediction": "Those born on the 26th blend leadership with a nurturing spirit. You’re a provider with a business mind.",
+        "personalityTraits": ["Responsible", "Diplomatic", "Supportive", "Ambitious"],
+        "careerPaths": ["Manager", "Consultant", "Educator", "Real Estate Agent"],
+        "challenges": ["Control issues", "Overburdening", "Emotional suppression"],
+        "strengths": ["Balance", "Influence", "Practical love"],
+        "lifePurpose": "To lead with heart and bring stability to those who rely on you."
+      },
+      {
+        "number": 27,
+        "title": "The Compassionate Leader",
+        "prediction": "You are a global thinker and a giver. Deeply humanitarian, you feel responsible for the welfare of others.",
+        "personalityTraits": ["Compassionate", "Idealistic", "Philosophical", "Empathetic"],
+        "careerPaths": ["Human Rights Activist", "Counselor", "Teacher", "Healer"],
+        "challenges": ["Emotional overload", "Martyrdom", "Over-idealism"],
+        "strengths": ["Altruism", "Empathy", "Vision"],
+        "lifePurpose": "To lead with love and create meaningful change in the world."
+      },
+      {
+        "number": 28,
+        "title": "The Bold Individualist",
+        "prediction": "You are independent, ambitious, and self-directed. You succeed through your own efforts and innovation.",
+        "personalityTraits": ["Independent", "Courageous", "Determined", "Inventive"],
+        "careerPaths": ["Entrepreneur", "Artist", "Athlete", "Inventor"],
+        "challenges": ["Ego", "Impatience", "Isolation"],
+        "strengths": ["Confidence", "Initiative", "Persistence"],
+        "lifePurpose": "To blaze your own trail and inspire self-sufficiency in others."
+      },
+      {
+        "number": 29,
+        "title": "The Sensitive Messenger",
+        "prediction": "Highly intuitive and emotionally aware, you are here to uplift and guide others through your deep insight.",
+        "personalityTraits": ["Empathic", "Intuitive", "Supportive", "Inspirational"],
+        "careerPaths": ["Spiritual Teacher", "Coach", "Artist", "Public Speaker"],
+        "challenges": ["Emotional instability", "Over-sensitivity", "Self-doubt"],
+        "strengths": ["Intuition", "Empathy", "Healing words"],
+        "lifePurpose": "To be a beacon of light and encouragement to the world."
+      },
+      {
+        "number": 30,
+        "title": "The Creative Optimist",
+        "prediction": "Joyful and expressive, you bring light and laughter wherever you go. You are born to inspire and uplift.",
+        "personalityTraits": ["Optimistic", "Expressive", "Social", "Playful"],
+        "careerPaths": ["Entertainer", "Influencer", "Coach", "Performer"],
+        "challenges": ["Lack of focus", "Avoidance of seriousness", "Oversharing"],
+        "strengths": ["Creativity", "Positivity", "Expression"],
+        "lifePurpose": "To uplift others through your creative spirit and joy."
+      },
+      {
+        "number": 31,
+        "title": "The Grounded Visionary",
+        "prediction": "A perfect mix of dreamer and doer. You have big ideas and the practical skills to bring them to life.",
+        "personalityTraits": ["Practical", "Ambitious", "Creative", "Stable"],
+        "careerPaths": ["Engineer", "Planner", "Business Owner", "Designer"],
+        "challenges": ["Work-life imbalance", "Perfectionism", "Self-doubt"],
+        "strengths": ["Discipline", "Vision", "Execution"],
+        "lifePurpose": "To build a solid foundation for your dreams and help others do the same."
+      }
+    ]
+  
+  
