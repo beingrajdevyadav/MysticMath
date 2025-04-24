@@ -28,6 +28,7 @@ function App() {
   <Route path='/birthday' element={<Birthday/>} />
   <Route path='/day' element={<Day/>} />
   <Route path='/month' element={<Month/>} />
+  <Route path='/destiny-number' element={<DestinyNumber/>} />
 </Routes>
 
 
