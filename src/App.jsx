@@ -26,6 +26,7 @@ function App() {
   <Route path='/home' element={<Home/>} />
   <Route path='/astro-sign' element={<AstroSign/>} />
   <Route path='/birthday' element={<Birthday/>} />
+  <Route path='/day' element={<Day/>} />
 </Routes>
 
 
