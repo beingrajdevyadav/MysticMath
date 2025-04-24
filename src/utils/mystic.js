@@ -80,3 +80,23 @@ export const getDestinyNumber = (fullName) => {
 };
 
 
+// Function to calculate soul urge number
+export const getSoulUrgeNumber = (fullName) => {
+    const vowelValues = { 'A': 1, 'E': 5, 'I': 9, 'O': 6, 'U': 3 };
+
+    let sum = 0;
+    for (const char of fullName.toUpperCase()) {
+        if (vowelValues[char]) {
+            sum += vowelValues[char];
+        }
+    }
+
+    function reduceToSingleDigit(num) {
+        while (num > 9 && num !== 11 && num !== 22 && num !== 33) {
+            num = num.toString().split('').reduce((sum, digit) => sum + parseInt(digit), 0);
+        }
+        return num;
+    }
+
+    return reduceToSingleDigit(sum);
+};
