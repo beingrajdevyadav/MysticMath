@@ -1,15 +1,16 @@
 import React from 'react'
+import Hero from '../components/Hero'
+import Preloader from '../components/Preloader'
+import Form from '../components/Form'
 
 const Index = () => {
   return (
     <>
-    <header>
-        <h3><span>M</span> ysticMath</h3>
-      </header>
+    
       <Hero />
       {/* <Preloader/> */}
       <Form />
-      <Footer/>
+      
     </>
   )
 }
