@@ -15,6 +15,8 @@ const initialState = localData || {
     month: "",
     astroSign: "",
     day: "",
+    maturityNumber: "",
+    birthday: "",
 };
 
 const userSlice = createSlice({
@@ -33,7 +35,8 @@ const userSlice = createSlice({
             state.month = action.payload.month;
             state.astroSign = action.payload.astroSign;
             state.day = action.payload.day;
-
+state.maturityNumber = action.payload.maturityNumber;
+            state.birthday = action.payload.birthday;
             // to save state in local storage
             saveToLocalStorage("user", state);
         },
@@ -49,7 +52,8 @@ const userSlice = createSlice({
             state.month = "";
             state.astroSign = "";
             state.day = "";
-
+state.maturityNumber = "";
+            state.birthday = "";
             // to save state
             saveToLocalStorage("user", state);
 
