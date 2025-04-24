@@ -2,7 +2,15 @@ import React from 'react'
 
 const Index = () => {
   return (
-    <div>Index</div>
+    <>
+    <header>
+        <h3><span>M</span> ysticMath</h3>
+      </header>
+      <Hero />
+      {/* <Preloader/> */}
+      <Form />
+      <Footer/>
+    </>
   )
 }
 
