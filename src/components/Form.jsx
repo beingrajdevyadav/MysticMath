@@ -1,7 +1,9 @@
 import React, { useRef, useState } from 'react'
-import { showErrorToast } from "../utils/toast";
+import { showErrorToast,showSuccessToast } from "../utils/toast";
 
 import "../css/form.css";
+import { getAstroSign, getDayName, getDestinyNumber, getLifePathNumber, getMaturityNumber, getMonthName, getPersonalityNumber, getSoulUrgeNumber } from '../utils/mystic';
+
 
 
 const Form = () => {
@@ -43,7 +45,25 @@ const Form = () => {
         const mm = date.getMonth() + 1;
         const yyyy = date.getFullYear();
 
-        console.log(dd, mm, yyyy)
+        console.log(dd, mm, yyyy);
+
+        const report ={
+            fullName: fullName,
+            dateOfBirth: dob,
+            destinyNumber: getDestinyNumber(fullName),
+            lifePathNumber: getLifePathNumber(dd, mm, yyyy),
+            personalityNumber: getPersonalityNumber(fullName),
+            soulUrgeNumber: getSoulUrgeNumber(fullName),
+            month: getMonthName(mm),
+            astroSign: getAstroSign(dd, mm),
+            day: getDayName(dd, mm, yyyy),
+            maturityNumber: getMaturityNumber(dd, mm, yyyy),
+            birthday: dd,
+        }
+
+
+        // to check
+        console.log(report);
     }
 
     return (
@@ -57,7 +77,7 @@ const Form = () => {
                 </div>
 
                 <div className="input-container flex">
-                    <label htmlFor="">Pick Data Of Birth :</label>
+                    <label htmlFor="">{dob? dob : "Pick Data Of Birth :"} </label>
                     <input value={dob} onChange={e => setDob(e.target.value)} type="date" ref={dateInputRef} name="dob" id="dob" style={{ display: "none" }} />
                     <button onClick={handleDatePicker} type='button'><i className="fa-solid fa-calendar-days"></i></button>
                 </div>

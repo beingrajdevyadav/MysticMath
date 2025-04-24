@@ -72,11 +72,19 @@ export const getDestinyNumber = (fullName) => {
         'S': 1, 'T': 2, 'U': 3, 'V': 4, 'W': 5, 'X': 6, 'Y': 7, 'Z': 8
     };
 
-    const nameValue = fullName.toUpperCase().split('').reduce((sum, char) => {
+    const nameValue = String(fullName).toUpperCase().split('').reduce((sum, char) => {
         return sum + (alphabet[char] || 0);
     }, 0);
 
-    return getLifePathNumber(nameValue);
+    // Function to reduce to a single digit or master number
+    function reduceToSingleDigit(num) {
+        while (num > 9 && num !== 11 && num !== 22 && num !== 33) {
+            num = num.toString().split('').reduce((sum, digit) => sum + parseInt(digit), 0);
+        }
+        return num;
+    }
+
+    return reduceToSingleDigit(nameValue);
 };
 
 

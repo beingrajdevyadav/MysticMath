@@ -35,7 +35,7 @@ const userSlice = createSlice({
             state.month = action.payload.month;
             state.astroSign = action.payload.astroSign;
             state.day = action.payload.day;
-state.maturityNumber = action.payload.maturityNumber;
+            state.maturityNumber = action.payload.maturityNumber;
             state.birthday = action.payload.birthday;
             // to save state in local storage
             saveToLocalStorage("user", state);
@@ -52,7 +52,7 @@ state.maturityNumber = action.payload.maturityNumber;
             state.month = "";
             state.astroSign = "";
             state.day = "";
-state.maturityNumber = "";
+            state.maturityNumber = "";
             state.birthday = "";
             // to save state
             saveToLocalStorage("user", state);
@@ -62,5 +62,5 @@ state.maturityNumber = "";
 });
 
 
-export const {setUser, clearUser} = userSlice.actions;
+export const { setUser, clearUser } = userSlice.actions;
 export default userSlice.reducer;
