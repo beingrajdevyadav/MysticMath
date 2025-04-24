@@ -134,4 +134,12 @@ export const getBirthdayNumber = (dd) => {
 
     return reduceToSingleDigit(dd);
 };
+
+
 // Function to calculate maturity number
+export const getMaturityNumber = (fullName, dd, mm, yyyy) => {
+    const destinyNumber = getDestinyNumber(fullName);
+    const lifePathNumber = getLifePathNumber(dd, mm, yyyy);
+
+    return destinyNumber + lifePathNumber;
+};
