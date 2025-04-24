@@ -30,6 +30,7 @@ function App() {
   <Route path='/month' element={<Month/>} />
   <Route path='/destiny-number' element={<DestinyNumber/>} />
   <Route path='/life-path-number' element={<LifePathNumber/>} />
+  <Route path='/soul-urge-number' element={<SoulUrgeNumber/>} />
 </Routes>
 
 
