@@ -29,6 +29,7 @@ function App() {
   <Route path='/day' element={<Day/>} />
   <Route path='/month' element={<Month/>} />
   <Route path='/destiny-number' element={<DestinyNumber/>} />
+  <Route path='/life-path-number' element={<LifePathNumber/>} />
 </Routes>
 
 
