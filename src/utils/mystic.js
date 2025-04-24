@@ -122,3 +122,16 @@ export const getPersonalityNumber = (fullName) => {
 
     return reduceToSingleDigit(sum);
 };
+
+// Function to calculate birthday number
+export const getBirthdayNumber = (dd) => {
+    function reduceToSingleDigit(num) {
+        while (num > 9 && num !== 11 && num !== 22 && num !== 33) {
+            num = num.toString().split('').reduce((sum, digit) => sum + parseInt(digit), 0);
+        }
+        return num;
+    }
+
+    return reduceToSingleDigit(dd);
+};
+// Function to calculate maturity number
