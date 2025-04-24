@@ -43,3 +43,23 @@ export const getMonthName = (mm) => {
     return months[mm - 1];
 }
 
+
+// Function to calculate life path number
+export const getLifePathNumber = (dd, mm, yyyy) => {
+    function reduceToSingleDigit(num) {
+        while (num > 9 && num !== 11 && num !== 22 && num !== 33) {
+            num = num.toString().split('').reduce((sum, digit) => sum + parseInt(digit), 0);
+        }
+        return num;
+    }
+
+    // Reduce day, month, and year separately
+    const day = reduceToSingleDigit(dd);
+    const month = reduceToSingleDigit(mm);
+    const year = reduceToSingleDigit(yyyy);
+
+    // Sum all parts and reduce to a single digit or master number
+    const lifePathNumber = reduceToSingleDigit(day + month + year);
+
+    return lifePathNumber;
+}
