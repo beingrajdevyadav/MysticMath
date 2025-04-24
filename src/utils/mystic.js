@@ -38,8 +38,8 @@ export const getDayName = (dd, mm, yyyy) => {
 }
 
 // Function to get month name based on month number
-// export const getMonthName = (mm) => {
-//     const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-//     return months[mm - 1];
-// }
+export const getMonthName = (mm) => {
+    const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+    return months[mm - 1];
+}
 
