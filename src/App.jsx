@@ -26,25 +26,25 @@ function App() {
         <h3><span>M</span> ysticMath</h3>
       </header>
 
-<Routes>
-  <Route path="/" element={<Index />} />
-  <Route path='/home' element={<Home/>} />
+      <Routes>
+        <Route path="/" element={<Index />} />
+        <Route path='/home' element={<Home />} />
 
-  <Route path='/astro-sign' element={<AstroSign/>} />
-  <Route path='/birthday' element={<Birthday/>} />
-  <Route path='/day' element={<Day/>} />
+        <Route path='/astro-sign' element={<AstroSign />} />
+        <Route path='/birthday' element={<Birthday />} />
+        <Route path='/day' element={<Day />} />
 
-  <Route path='/month' element={<Month/>} />
-  <Route path='/destiny-number' element={<DestinyNumber/>} />
-  <Route path='/life-path-number' element={<LifePathNumber/>} />
+        <Route path='/month' element={<Month />} />
+        <Route path='/destiny-number' element={<DestinyNumber />} />
+        <Route path='/life-path-number' element={<LifePathNumber />} />
 
-  <Route path='/soul-urge-number' element={<SoulUrgeNumber/>} />
-  <Route path='/maturity-number' element={<MaturityNumber/>} />
-  <Route path='/personality-number' element={<PersonalityNumber/>} />
-</Routes>
+        <Route path='/soul-urge-number' element={<SoulUrgeNumber />} />
+        <Route path='/maturity-number' element={<MaturityNumber />} />
+        <Route path='/personality-number' element={<PersonalityNumber />} />
+      </Routes>
 
 
-      <Footer/>
+      <Footer />
     </>
   )
 }
