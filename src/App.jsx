@@ -28,16 +28,16 @@ function App() {
 <Routes>
   <Route path="/" element={<Index />} />
   <Route path='/home' element={<Home/>} />
-  <Route path='/astro-sign' element={<AstroSign/>} />
 
+  <Route path='/astro-sign' element={<AstroSign/>} />
   <Route path='/birthday' element={<Birthday/>} />
   <Route path='/day' element={<Day/>} />
-  <Route path='/month' element={<Month/>} />
 
+  <Route path='/month' element={<Month/>} />
   <Route path='/destiny-number' element={<DestinyNumber/>} />
   <Route path='/life-path-number' element={<LifePathNumber/>} />
-  <Route path='/soul-urge-number' element={<SoulUrgeNumber/>} />
 
+  <Route path='/soul-urge-number' element={<SoulUrgeNumber/>} />
   <Route path='/maturity-number' element={<MaturityNumber/>} />
 </Routes>
 
