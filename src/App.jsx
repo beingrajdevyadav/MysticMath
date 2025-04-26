@@ -16,6 +16,7 @@ import LifePathNumber from './pages/LifePathNumber'
 import SoulUrgeNumber from './pages/SoulUrgeNumber'
 
 import MaturityNumber from './pages/MaturityNumber'
+import PersonalityNumber from './pages/PersonalityNumber'
 
 function App() {
 
@@ -39,6 +40,7 @@ function App() {
 
   <Route path='/soul-urge-number' element={<SoulUrgeNumber/>} />
   <Route path='/maturity-number' element={<MaturityNumber/>} />
+  <Route path='/personality-number' element={<PersonalityNumber/>} />
 </Routes>
 
 
