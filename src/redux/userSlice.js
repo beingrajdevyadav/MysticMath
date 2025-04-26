@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 import { getFromLocalStorage, saveToLocalStorage } from "../utils/localStorage";
 
 
-const localData = getFromLocalStorage("user");
+const localData = getFromLocalStorage("report");
 
 
 const initialState = localData || {
@@ -38,7 +38,7 @@ const userSlice = createSlice({
             state.maturityNumber = action.payload.maturityNumber;
             state.birthday = action.payload.birthday;
             // to save state in local storage
-            saveToLocalStorage("user", state);
+            saveToLocalStorage("report", state);
         },
 
         clearUser: (state) => {
@@ -55,7 +55,7 @@ const userSlice = createSlice({
             state.maturityNumber = "";
             state.birthday = "";
             // to save state
-            saveToLocalStorage("user", state);
+            saveToLocalStorage("report", state);
 
         }
     }

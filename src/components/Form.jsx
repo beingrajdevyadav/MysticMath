@@ -3,6 +3,8 @@ import { showErrorToast,showSuccessToast } from "../utils/toast";
 
 import "../css/form.css";
 import { getAstroSign, getDayName, getDestinyNumber, getLifePathNumber, getMaturityNumber, getMonthName, getPersonalityNumber, getSoulUrgeNumber } from '../utils/mystic';
+import { useDispatch } from 'react-redux';
+import { setUser } from '../redux/userSlice';
 
 
 
@@ -11,6 +13,7 @@ const Form = () => {
     const [dob, setDob] = useState("");
 
     const dateInputRef = useRef(null);
+    const dispatch = useDispatch();
 
 
     // Handle Date Picker
@@ -45,7 +48,7 @@ const Form = () => {
         const mm = date.getMonth() + 1;
         const yyyy = date.getFullYear();
 
-        console.log(dd, mm, yyyy);
+        // console.log(dd, mm, yyyy);
 
         const report ={
             fullName: fullName,
@@ -63,7 +66,9 @@ const Form = () => {
 
 
         // to check
-        console.log(report);
+        // console.log(report);
+        dispatch(setUser(report));
+        showSuccessToast("Form Submitted Successfully! 🎉🤩");
     }
 
     return (
