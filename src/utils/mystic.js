@@ -150,6 +150,6 @@ export const getMaturityNumber = (fullName, dd, mm, yyyy) => {
     const lifePathNumber = getLifePathNumber(dd, mm, yyyy);
 
    
-    return destinyNumber + lifePathNumber;
+    return getBirthdayNumber(destinyNumber + lifePathNumber)  ;
 };
 
