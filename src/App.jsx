@@ -17,9 +17,11 @@ import SoulUrgeNumber from './pages/SoulUrgeNumber'
 
 import MaturityNumber from './pages/MaturityNumber'
 import PersonalityNumber from './pages/PersonalityNumber'
+import { useSelector } from 'react-redux'
 
 function App() {
-
+const user = useSelector((state) => (state.user.fullName));
+  console.log(user);
   return (
     <>
       <header>
@@ -27,7 +29,7 @@ function App() {
       </header>
 
       <Routes>
-        <Route path="/" element={<Index />} />
+        <Route path="/" element={user?(<Home />) : <Index />} />
         <Route path='/home' element={<Home />} />
 
         <Route path='/astro-sign' element={<AstroSign />} />

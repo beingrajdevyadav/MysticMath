@@ -28,6 +28,7 @@ const Home = () => {
         </div>
 
 
+<br /> 
         <h2>MysticMath Report</h2>
         <hr />
 
