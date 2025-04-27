@@ -27,3 +27,8 @@
     margin-bottom: .5rem;
     gap: 1rem;
 }
+
+.home-content-box a{
+    font-size: 14px;
+    color: #555;
+}

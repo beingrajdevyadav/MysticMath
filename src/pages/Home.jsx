@@ -1,9 +1,12 @@
 import React from 'react'
 import "../css/home.css"
 import { useSelector } from 'react-redux'
+import { NavLink } from 'react-router-dom'
+
+
 const Home = () => {
   const report = useSelector((state) => (state.user));
-  console.log(report);
+  // console.log(report);
   return (
     <>
       <div className="home-banner">
@@ -18,6 +21,8 @@ const Home = () => {
 
         <h2>Personal Information </h2>
         <hr />
+        <br />
+
         <div className="home-content-box">
           <p>Full Name :</p>
           <p>{report.fullName}</p>
@@ -28,45 +33,45 @@ const Home = () => {
         </div>
 
 
-<br /> 
+        <br />
         <h2>MysticMath Report</h2>
-        <hr />
+        <hr /> <br />
 
         <div className="home-content-box">
           <p>Astrological Sign :</p>
-          <p>{report.astroSign}</p>
+          <NavLink to={'/astro-sign'}>{report.astroSign}</NavLink>
         </div>
         <div className="home-content-box">
           <p>Birthday :</p>
-          <p>{report.birthday}</p>
+          <NavLink to={'/birthday'}>{report.birthday}</NavLink>
         </div>
         <div className="home-content-box">
-          <p>Day :</p>
-          <p>{report.day}</p>
+          <p>Day : </p>
+          <NavLink to={'/day'}>{report.day}</NavLink>
         </div>
         <div className="home-content-box">
           <p>Month :</p>
-          <p>{report.month}</p>
+          <NavLink to={'/month'}>{report.month}</NavLink>
         </div>
         <div className="home-content-box">
           <p>Destiny Number :</p>
-          <p>{report.destinyNumber}</p>
+          <NavLink to={'/destiny-number'}>{report.destinyNumber}</NavLink>
         </div>
         <div className="home-content-box">
           <p>Life Path Number :</p>
-          <p>{report.lifePathNumber}</p>
+          <NavLink to={'/life-path-number'}>{report.lifePathNumber}</NavLink>
         </div>
         <div className="home-content-box">
           <p>Soul Urge Number :</p>
-          <p>{report.soulUrgeNumber}</p>
+          <NavLink to={'/soul-urge-number'}>{report.soulUrgeNumber}</NavLink>
         </div>
         <div className="home-content-box">
           <p>Maturity Number :</p>
-          <p>{report.maturityNumber}</p>
+          <NavLink to={'/maturity-number'}>{report.maturityNumber}</NavLink>
         </div>
         <div className="home-content-box">
           <p>Personality Number :</p>
-          <p>{report.personalityNumber}</p>
+          <NavLink to={'/personality-number'}>{report.personalityNumber}</NavLink>
         </div>
       </div>
 

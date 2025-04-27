@@ -19,6 +19,8 @@ import MaturityNumber from './pages/MaturityNumber'
 import PersonalityNumber from './pages/PersonalityNumber'
 import { useSelector } from 'react-redux'
 
+
+
 function App() {
 const user = useSelector((state) => (state.user.fullName));
   console.log(user);
