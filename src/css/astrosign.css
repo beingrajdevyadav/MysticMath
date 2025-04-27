@@ -8,3 +8,16 @@
     align-items: center;
     text-align: center;
 }
+
+.astro-report-box{
+    padding:1rem ;
+}
+
+.astro-report-box p{
+    font-size: 14px;
+}
+
+.astro-report-box ul{
+    padding:.5rem 1rem;
+    font-size: 14px;
+}
