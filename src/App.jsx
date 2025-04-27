@@ -18,6 +18,7 @@ import SoulUrgeNumber from './pages/SoulUrgeNumber'
 import MaturityNumber from './pages/MaturityNumber'
 import PersonalityNumber from './pages/PersonalityNumber'
 import { useSelector } from 'react-redux'
+import ScrollToTop from './components/ScrollToTop'
 
 
 
@@ -26,6 +27,7 @@ const user = useSelector((state) => (state.user.fullName));
   // console.log(user);
   return (
     <>
+    <ScrollToTop/>
       <header>
         <h3><span>M</span> ysticMath</h3>
       </header>
