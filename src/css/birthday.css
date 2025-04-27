@@ -1,0 +1,51 @@
+.birthday-banner{
+    height: 35vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    color: #ddd;
+    text-align: center;
+}
+.birthday-banner h1{
+    margin-bottom: .5rem;
+}
+.birthday-banner p{
+    margin-top: .5rem;
+}
+
+.birthday-report{
+    padding: 1rem;
+}
+
+.birthday-report-box{
+    padding: 1rem 0;
+}
+.birthday-report-box p{
+    padding: .5rem 0;
+    font-size: 14px;
+}
+
+.birthday-report-box ul{
+    font-size: 14px;
+    padding: 1rem;
+}
+
+.birthday-action{
+    text-align: center;
+    padding: 1rem;
+}
+
+.birthday-action button{
+    padding: 1rem 2rem;
+    border: none;
+    outline: none;
+     border-radius: 50px;
+     background-color: #333;
+     color: #ddd;
+     cursor: pointer;
+}
+.birthday-action button:hover{
+    background-color: #444;
+}
