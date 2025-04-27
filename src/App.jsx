@@ -23,7 +23,7 @@ import { useSelector } from 'react-redux'
 
 function App() {
 const user = useSelector((state) => (state.user.fullName));
-  console.log(user);
+  // console.log(user);
   return (
     <>
       <header>
