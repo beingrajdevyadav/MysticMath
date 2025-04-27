@@ -2,10 +2,13 @@ import React from 'react'
 import { useSelector } from 'react-redux'
 import birth from '../assets/birthday.json'
 import '../css/birthday.css'
+import { useNavigate } from 'react-router-dom'
+
 const Birthday = () => {
   const report = useSelector((state) => state.user);
   const current = birth.filter((b) => b.number == report.birthday)[0];
-  console.log(current);
+  
+  const navigate = useNavigate();
   return (
     <>
       <div className="birthday-banner">
@@ -71,7 +74,7 @@ const Birthday = () => {
       </div>
 
       <div className="birthday-action">
-        <button>Back To Home</button>
+        <button onClick={()=>navigate(-1)}>Back To Home</button>
       </div>
     </>
   )
