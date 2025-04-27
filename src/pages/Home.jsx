@@ -1,8 +1,18 @@
 import React from 'react'
-
+import "../css/home.css"
 const Home = () => {
   return (
-    <div>Home</div>
+    <>
+    <div className="home-banner">
+      <div className="home-banner-content">
+        <h1></h1>
+        <hr />
+        <p></p>
+      </div>
+    </div>
+      <h1>Welcome to Mystic Math</h1>
+
+    </>
   )
 }
 
