@@ -1,5 +1,7 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
+import "../css/day.css";
+
 
 const Day = () => {
   const report = useSelector((state) => state.user);
@@ -11,7 +13,7 @@ const Day = () => {
           <h1>{report.fullName}</h1>
           <hr />
 
-          <p>Here's Divine Digits Predications Based On {report.day}</p>
+          <p>Here's DivineDigits Predications Based On {report.day}</p>
         </div>
       </div>
     </>
