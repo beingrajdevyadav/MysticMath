@@ -86,25 +86,25 @@ const AstroSign = () => {
           <p>{current.spiritualTraits}</p>
         </div>
 
-<div className="astro-report-box">
-  <h3>Your Weakness</h3>
-  <hr />
+        <div className="astro-report-box">
+          <h3>Your Weakness</h3>
+          <hr />
 
-  <ul>
-    {current.weaknesses.map(w=><li key={w}>{w}</li>)}
-  </ul>
-</div>
+          <ul>
+            {current.weaknesses.map(w => <li key={w}>{w}</li>)}
+          </ul>
+        </div>
 
 
-<div className="astro-report-box">
-  <h3>Love Compatibility</h3>
-  <hr />
+        <div className="astro-report-box">
+          <h3>Love Compatibility</h3>
+          <hr />
 
-<ul>
-  {current.loveCompatibility.map(lc=><li key={lc}>{lc}</li>)}
-</ul>
- 
-</div>
+          <ul>
+            {current.loveCompatibility.map(lc => <li key={lc}>{lc}</li>)}
+          </ul>
+
+        </div>
 
         <div className="astro-report-box">
           <h3>Lucky Colours </h3>
@@ -123,11 +123,17 @@ const AstroSign = () => {
           <ul>{current.luckyNumbers.map(num => <li key={num}>{num}</li>)}</ul>
         </div>
 
+
+<div className="astro-report-box">
+  <h3>Advice</h3>
+  <hr />
+  <p>{current.advice}</p>
+</div>
       </div>
 
 
       <div className="astro-actions">
-        <button onClick={()=>navigate(-1)}>Back To Home</button>
+        <button onClick={() => navigate(-1)}>Back To Home</button>
       </div>
     </>
   )
