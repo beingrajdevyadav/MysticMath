@@ -6,9 +6,9 @@ import "../css/day.css";
 
 const Day = () => {
   const report = useSelector((state) => state.user);
-const day = data.find((day) => day.name === report.day);
+  const day = data.find((day) => day.name === report.day);
 
-console.log(day);
+  console.log(day);
   return (
     <>
       <div className="day-banner">
@@ -55,7 +55,74 @@ console.log(day);
           <hr />
           <p>{day.health}</p>
         </div>
-        
+
+
+        <div className="day-report-box">
+          <h3>Your Career</h3>
+          <hr />
+          <p>{day.career}</p>
+        </div>
+
+        <div className="day-report-box">
+          <h3>Your Financial Habits</h3>
+          <hr />
+          <p>{day.financialHabits}</p>
+        </div>
+
+
+        <div className="day-report-box">
+          <h3>Best Professions</h3>
+          <hr />
+          <ul>
+            {day.bestProfessions.map(p => <li key={p}>{p}</li>)}
+          </ul>
+        </div>
+
+        <div className="day-report-box">
+          <h3>Spiritual Traits</h3>
+          <hr />
+          <p>{day.spiritualTraits}</p>
+        </div>
+
+        <div className="day-report-box">
+          <h3>Your Weaknesses</h3>
+          <hr />
+          <ul>
+            {day.weaknesses.map(w => <li key={w}>{w}</li>)}
+          </ul>
+        </div>
+
+        <div className="day-report-box">
+          <h3>Love Compatibility</h3>
+          <hr />
+          <ul>
+            {day.loveCompatibility.map(l => <li key={l}>{l}</li>)}
+          </ul>
+        </div>
+
+
+        <div className="day-report-box">
+          <h3>Lucky Numbers</h3>
+          <hr />
+          <ul>
+            {day.luckyNumbers.map(l => <li key={l}>{l}</li>)}
+          </ul>
+        </div>
+
+        <div className="day-report-box">
+          <h3>Lucky Colours</h3>
+          <hr />
+          <ul>
+            {day.luckyColors.map(l => <li key={l}>{l}</li>)}
+          </ul>
+        </div>
+
+        <div className="day-report-box">
+          <h3>Advice</h3>
+          <hr />
+          <p>{day.advice}</p>
+        </div>
+
       </div>
     </>
   )
