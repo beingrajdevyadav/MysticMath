@@ -124,11 +124,11 @@ const AstroSign = () => {
         </div>
 
 
-<div className="astro-report-box">
-  <h3>Advice</h3>
-  <hr />
-  <p>{current.advice}</p>
-</div>
+        <div className="astro-report-box">
+          <h3>Advice</h3>
+          <hr />
+          <p>{current.advice}</p>
+        </div>
       </div>
 
 

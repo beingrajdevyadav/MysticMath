@@ -19,6 +19,44 @@ console.log(day);
           <p>Here's DivineDigits Predications Based On {report.day}</p>
         </div>
       </div>
+
+      <div className="day-report">
+        <div className="day-report-box">
+          <h2>{report.day} Report</h2>
+          <hr />
+        </div>
+
+        <div className="day-report-box">
+          <h3>Your Strengths</h3>
+          <hr />
+
+          <ul>
+            {day.strengths.map(s => <li key={s}>{s}</li>)}
+          </ul>
+        </div>
+
+        <div className="day-report-box">
+          <h3>Your Life</h3>
+          <hr />
+          <p>{day.life}</p>
+        </div>
+
+        <div className="day-report-box">
+          <h3>Your Qualities</h3>
+          <hr />
+
+          <ul>
+            {day.qualities.map(q => <li key={q}>{q}</li>)}
+          </ul>
+        </div>
+
+        <div className="day-report-box">
+          <h3>Your Health</h3>
+          <hr />
+          <p>{day.health}</p>
+        </div>
+        
+      </div>
     </>
   )
 }

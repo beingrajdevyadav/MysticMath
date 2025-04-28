@@ -16,3 +16,16 @@
     font-size: 14px;
     margin-top: .5rem;
 }
+
+
+.day-report-box{
+    padding:1rem ;
+}
+.day-report-box p{
+    font-size: 14px;
+    margin-top: .5rem;
+}
+.day-report-box ul{
+    padding:.5rem 1rem;
+    font-size: 14px;
+}
