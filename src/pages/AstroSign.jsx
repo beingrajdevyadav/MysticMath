@@ -18,8 +18,8 @@ const AstroSign = () => {
         <div className="astro-banner-content">
           <h1>{report.astroSign}</h1>
           <hr /> <br />
-          <p>Dear, {report.fullName}! </p>
-          <p>Here's your astro sign meaning.</p>
+          <p>Dear, {report.fullName}</p>
+          <p>DivineDigits {report.astroSign} Report </p>
         </div>
       </div>
 
