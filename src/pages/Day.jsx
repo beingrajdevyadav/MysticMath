@@ -2,13 +2,16 @@ import React from 'react'
 import { useSelector } from 'react-redux';
 import data from "../assets/days.json";
 import "../css/day.css";
+import { useNavigate } from 'react-router-dom';
 
 
 const Day = () => {
+  const navigate = useNavigate();
+
   const report = useSelector((state) => state.user);
   const day = data.find((day) => day.name === report.day);
 
-  console.log(day);
+  // console.log(day);
   return (
     <>
       <div className="day-banner">
@@ -123,6 +126,10 @@ const Day = () => {
           <p>{day.advice}</p>
         </div>
 
+
+<div className="day-action">
+  <button>Back To Home</button>
+</div>
       </div>
     </>
   )

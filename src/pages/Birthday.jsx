@@ -74,7 +74,7 @@ const Birthday = () => {
       </div>
 
       <div className="birthday-action">
-        <button onClick={()=>navigate(-1)}>Back To Home</button>
+        <button onClick={()=>navigate('/')}>Back To Home</button>
       </div>
     </>
   )
