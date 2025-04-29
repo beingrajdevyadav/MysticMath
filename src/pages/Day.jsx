@@ -128,7 +128,7 @@ const Day = () => {
 
 
 <div className="day-action">
-  <button>Back To Home</button>
+  <button onClick={()=>navigate('/')}>Back To Home</button>
 </div>
       </div>
     </>
