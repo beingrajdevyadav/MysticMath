@@ -1,0 +1,14 @@
+.month-banner{
+    height: 35vh;
+    width: 100%;
+    text-align: center;
+    background-color: #333;
+    color: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.month-banner-content p{
+    font-size: 14px;
+}
