@@ -29,7 +29,7 @@ const user = useSelector((state) => (state.user.fullName));
     <>
     <ScrollToTop/>
       <header>
-        <h3><span>M</span> ysticMath</h3>
+        <h3><span>D</span> ivineDigits</h3>
       </header>
 
       <Routes>
