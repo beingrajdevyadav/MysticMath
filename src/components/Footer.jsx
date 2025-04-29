@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div className='footer'>
             <div className="footer-content">
-                <p>MysticMath By Rajdev Yadav</p>
+                <p>DivineDigits By Rajdev Yadav</p>
                 <p>All Rights Reserved. &copy; {date.getFullYear()}</p>
             </div>
         </div>
