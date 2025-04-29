@@ -74,7 +74,7 @@ const Form = () => {
     return (
         <div className="form-container">
             <form onSubmit={handleSubmit}>
-                <h3>Dive In Mystic World  </h3>
+                <h3>Welcome To DivineDigits  </h3>
                 <hr />
 
                 <div className="input-container">
