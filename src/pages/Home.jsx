@@ -13,7 +13,7 @@ const Home = () => {
         <div className="home-banner-content">
           <h1>{report.fullName}</h1>
           <hr />
-          <p>MysticMath Report For {report.fullName}</p>
+          <p>Welcome To DivineDigits Report For {report.fullName}</p>
         </div>
       </div>
 
@@ -34,7 +34,7 @@ const Home = () => {
 
 
         <br />
-        <h2>MysticMath Report</h2>
+        <h2>DivineDigits Report</h2>
         <hr /> <br />
 
         <div className="home-content-box">
