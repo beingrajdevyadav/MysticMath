@@ -92,6 +92,14 @@ const Month = () => {
             {report.weaknesses.map(w => <li key={w}>{w}</li>)}
           </ul>
           </div>
+
+        <div className="month-report-box">
+          <h3>Love Compatibility</h3>
+          <hr />
+          <ul>
+            {report.loveCompatibility.map(l => <li key={l}>{l}</li>)}
+          </ul>
+          </div>
       </div>
     </>
   )
