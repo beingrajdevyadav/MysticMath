@@ -80,9 +80,17 @@ const Month = () => {
           </div>
 
         <div className="month-report-box">
-          <h3>Spiritual Trails</h3>
+          <h3>Spiritual Traits</h3>
           <hr />
-          <p>{report.spiritualTrails}</p>
+          <p>{report.spiritualTraits}</p>
+          </div>
+
+        <div className="month-report-box">
+          <h3>Your Weaknesses</h3>
+          <hr />
+          <ul>
+            {report.weaknesses.map(w => <li key={w}>{w}</li>)}
+          </ul>
           </div>
       </div>
     </>
