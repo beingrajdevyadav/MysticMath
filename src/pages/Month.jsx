@@ -43,7 +43,7 @@ const Month = () => {
           <h3>Your Life</h3>
           <hr />
           <p>{report.life}</p>
-          </div>
+        </div>
 
         <div className="month-report-box">
           <h3>Your Qualities</h3>
@@ -52,19 +52,26 @@ const Month = () => {
           <ul>
             {report.qualities.map(q => <li key={q}>{q}</li>)}
           </ul>
-          </div>
+        </div>
 
         <div className="month-report-box">
           <h3>Your Health</h3>
           <hr />
           <p>{report.health}</p>
-          </div>
+        </div>
 
         <div className="month-report-box">
           <h3>Your Career</h3>
           <hr />
           <p>{report.career}</p>
-          </div>
+        </div>
+
+        <div className="month-report-box">
+        <h3>Your Financial Habits</h3>
+          <hr />
+          <p>{report.financialHabits}</p>
+        </div>
+         
       </div>
     </>
   )
