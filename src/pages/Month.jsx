@@ -53,6 +53,12 @@ const Month = () => {
             {report.qualities.map(q => <li key={q}>{q}</li>)}
           </ul>
           </div>
+
+        <div className="month-report-box">
+          <h3>Your Health</h3>
+          <hr />
+          <p>{report.health}</p>
+          </div>
       </div>
     </>
   )
