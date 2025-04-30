@@ -72,6 +72,12 @@ const Month = () => {
           <p>{report.financialHabits}</p>
         </div>
          
+        <div className="month-report-box">
+          <h3>Best Professions</h3>
+          <hr />
+
+          <ul>{report.bestProfessions.map(p => <li key={p}>{p}</li>)}</ul>
+          </div>
       </div>
     </>
   )
