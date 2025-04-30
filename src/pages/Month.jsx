@@ -78,6 +78,12 @@ const Month = () => {
 
           <ul>{report.bestProfessions.map(p => <li key={p}>{p}</li>)}</ul>
           </div>
+
+        <div className="month-report-box">
+          <h3>Spiritual Trails</h3>
+          <hr />
+          <p>{report.spiritualTrails}</p>
+          </div>
       </div>
     </>
   )
