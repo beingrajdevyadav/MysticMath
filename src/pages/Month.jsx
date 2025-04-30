@@ -59,6 +59,12 @@ const Month = () => {
           <hr />
           <p>{report.health}</p>
           </div>
+
+        <div className="month-report-box">
+          <h3>Your Career</h3>
+          <hr />
+          <p>{report.career}</p>
+          </div>
       </div>
     </>
   )
