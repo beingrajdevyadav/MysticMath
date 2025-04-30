@@ -29,6 +29,15 @@ const Month = () => {
           <h2>DivineDigits  {report.name} Report</h2>
           <hr />
         </div>
+
+        <div className="month-report-box">
+          <h3>Your Strengths</h3>
+          <hr />
+
+          <ul>
+            {report.strengths.map(s => <li key={s}>{s}</li>)}
+          </ul>
+        </div>
       </div>
     </>
   )
