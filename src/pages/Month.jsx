@@ -23,6 +23,13 @@ const Month = () => {
         </div>
       </div>
 
+
+      <div className="month-report">
+        <div className="month-report-box">
+          <h2>DivineDigits  {report.name} Report</h2>
+          <hr />
+        </div>
+      </div>
     </>
   )
 }

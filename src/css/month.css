@@ -12,3 +12,10 @@
 .month-banner-content p{
     font-size: 14px;
 }
+.month-report{
+    padding: 1rem;
+}
+
+.month-report-box{
+    margin: 1rem 0;
+}
