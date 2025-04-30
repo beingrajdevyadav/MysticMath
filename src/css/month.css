@@ -19,3 +19,8 @@
 .month-report-box{
     margin: 1rem 0;
 }
+
+.month-report-box ul{
+    padding: 1rem;
+    font-size: 14px;
+}

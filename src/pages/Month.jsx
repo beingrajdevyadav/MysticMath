@@ -38,6 +38,21 @@ const Month = () => {
             {report.strengths.map(s => <li key={s}>{s}</li>)}
           </ul>
         </div>
+
+        <div className="month-report-box">
+          <h3>Your Life</h3>
+          <hr />
+          <p>{report.life}</p>
+          </div>
+
+        <div className="month-report-box">
+          <h3>Your Qualities</h3>
+          <hr />
+
+          <ul>
+            {report.qualities.map(q => <li key={q}>{q}</li>)}
+          </ul>
+          </div>
       </div>
     </>
   )
