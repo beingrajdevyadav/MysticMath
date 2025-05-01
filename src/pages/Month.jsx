@@ -96,9 +96,20 @@ const Month = () => {
         <div className="month-report-box">
           <h3>Love Compatibility</h3>
           <hr />
+          
           <ul>
-            {report.loveCompatibility.map(l => <li key={l}>{l}</li>)}
+            {report.loveCompatibility.best.map(l => <li key={l}>{l}</li>)}
           </ul>
+          </div>
+
+          <div className="month-report-box">
+            <h3>Lucky Colours</h3>
+            <hr />
+            <ul>
+              {
+                report.luckyColors.map(c=><li key={c}>{c}</li>)
+              }
+            </ul>
           </div>
       </div>
     </>
