@@ -28,3 +28,24 @@
     padding: 1rem 0;
     font-size: 14px;
 }
+
+
+.month-action{
+    text-align: center;
+    padding: 1rem;
+}
+
+.month-action button{
+    padding: 1rem 2rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #333;
+    color: #ddd;
+    border-radius: 50px;
+    transition: all .5s ease;
+}
+
+.month-action button:hover{
+    background-color: #444;
+}
