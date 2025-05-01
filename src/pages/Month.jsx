@@ -2,11 +2,13 @@ import React from 'react'
 import data from '../assets/months.json'
 import { useSelector } from 'react-redux'
 import '../css/month.css'
+import { useNavigate } from 'react-router-dom'
 
 
 
 const Month = () => {
   const user = useSelector((state) => state.user);
+const navigate = useNavigate();
 
   const report = data.find(r => r.name === user.month);
   console.log(report)
@@ -132,7 +134,7 @@ const Month = () => {
 
 
           <div className="month-action">
-            <button>Back To Home</button>
+            <button onClick={()=>navigate('/')}>Back To Home</button>
           </div>
       </div>
     </>
