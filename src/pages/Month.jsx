@@ -129,6 +129,11 @@ const Month = () => {
 
             <p>{report.advice}</p>
           </div>
+
+
+          <div className="month-action">
+            <button>Back To Home</button>
+          </div>
       </div>
     </>
   )
