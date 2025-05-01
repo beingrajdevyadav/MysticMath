@@ -111,6 +111,17 @@ const Month = () => {
               }
             </ul>
           </div>
+
+          <div className="month-report-box">
+            <h3>Lucky Numbers</h3>
+            <hr />
+
+            <ul>
+              {
+                report.luckyNumbers.map(n=><li key={n}>{n}</li>)
+              }
+            </ul>
+          </div>
       </div>
     </>
   )
