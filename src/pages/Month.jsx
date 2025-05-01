@@ -122,6 +122,13 @@ const Month = () => {
               }
             </ul>
           </div>
+
+          <div className="month-report-box">
+            <h3>Advice</h3>
+            <hr />
+
+            <p>{report.advice}</p>
+          </div>
       </div>
     </>
   )
