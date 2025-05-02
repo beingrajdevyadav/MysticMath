@@ -13,7 +13,7 @@ const Home = () => {
         <div className="home-banner-content">
           <h1>{report.fullName}</h1>
           <hr />
-          <p>Welcome To DivineDigits Report For {report.fullName}</p>
+          <p>Welcome To DivineDigits Report </p>
         </div>
       </div>
 
