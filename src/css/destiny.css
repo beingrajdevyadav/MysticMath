@@ -1,0 +1,19 @@
+.destiny-banner{
+    height: 35vh;
+    width: 100%;
+    background-color: #333;
+    color: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.destiny-banner h1{
+    font-size: 3rem;
+    margin-bottom: .5rem;
+}
+.destiny-banner p{
+    font-size: 14px;
+    margin-top: .5rem;
+}
