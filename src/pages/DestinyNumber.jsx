@@ -27,6 +27,13 @@ const DestinyNumber = () => {
           <h3> DivineDigits Destiny Number Report</h3>
           <hr />
         </div>
+
+
+        <div className="destiny-report-box">
+          <h3>Life Purpose</h3>
+          <hr />
+<p>{report.lifePurpose}</p>
+        </div>
       </div>
     </>
   )
