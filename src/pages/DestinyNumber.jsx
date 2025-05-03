@@ -64,7 +64,14 @@ const DestinyNumber = () => {
           <h3>Spiritual Growth</h3>
           <hr />
 
-<p>{report.spiritualGrowth}</p>
+          <p>{report.spiritualGrowth}</p>
+        </div>
+
+        <div className="destiny-report-box">
+          <h3>Challenges For You</h3>
+          <hr />
+
+          <p>{report.challenges}</p>
         </div>
       </div>
     </>
