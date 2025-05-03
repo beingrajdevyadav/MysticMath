@@ -59,6 +59,13 @@ const DestinyNumber = () => {
 
           <p>{report.loveAndRelationships}</p>
         </div>
+
+        <div className="destiny-report-box">
+          <h3>Spiritual Growth</h3>
+          <hr />
+
+<p>{report.spiritualGrowth}</p>
+        </div>
       </div>
     </>
   )
