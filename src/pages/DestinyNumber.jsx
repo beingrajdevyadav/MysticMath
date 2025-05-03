@@ -41,6 +41,17 @@ const DestinyNumber = () => {
 
           <p>{report.strengths}</p>
         </div>
+
+        <div className="destiny-report-box">
+          <h3>Your Career</h3>
+          <hr />
+
+          <ul>
+            {
+              report.career.map((c)=><li key={c}>{c}</li>)
+            }
+          </ul>
+        </div>
       </div>
     </>
   )
