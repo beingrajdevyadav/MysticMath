@@ -48,9 +48,16 @@ const DestinyNumber = () => {
 
           <ul>
             {
-              report.career.map((c)=><li key={c}>{c}</li>)
+              report.career.map((c) => <li key={c}>{c}</li>)
             }
           </ul>
+        </div>
+
+        <div className="destiny-report-box">
+          <h3>Love And Relationships</h3>
+          <hr />
+
+          <p>{report.loveAndRelationships}</p>
         </div>
       </div>
     </>
