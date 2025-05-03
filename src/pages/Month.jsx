@@ -11,7 +11,7 @@ const Month = () => {
 const navigate = useNavigate();
 
   const report = data.find(r => r.name === user.month);
-  console.log(report)
+  // console.log(report)
   return (
     <>
       <div className="month-banner">
