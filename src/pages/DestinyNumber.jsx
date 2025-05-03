@@ -81,6 +81,11 @@ const DestinyNumber = () => {
 
           <p>{report.advice}</p>
         </div>
+
+
+        <div className="report-action">
+          <button>Back To Home</button>
+        </div>
       </div>
     </>
   )
