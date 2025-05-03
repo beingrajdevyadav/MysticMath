@@ -2,15 +2,15 @@ import React from 'react'
 import { useSelector } from 'react-redux'
 import data from '../assets/destiny.json'
 import '../css/destiny.css'
+import { useNavigate } from 'react-router-dom'
 
 
 
 const DestinyNumber = () => {
   const user = useSelector((state) => state.user);
-
   const report = data.find((r) => r.number == user.destinyNumber);
 
-  console.log(report);
+  const navigate = useNavigate();
   return (
     <>
       <div className="destiny-banner">
@@ -84,7 +84,7 @@ const DestinyNumber = () => {
 
 
         <div className="report-action">
-          <button>Back To Home</button>
+          <button onClick={()=>navigate('/')}>Back To Home</button>
         </div>
       </div>
     </>
