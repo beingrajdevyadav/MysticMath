@@ -7,8 +7,8 @@ import '../css/destiny.css'
 
 const DestinyNumber = () => {
   const user = useSelector((state) => state.user);
-  
-  const report = data.find((r)=>r.number == user.destinyNumber);
+
+  const report = data.find((r) => r.number == user.destinyNumber);
 
   console.log(report);
   return (
@@ -32,7 +32,14 @@ const DestinyNumber = () => {
         <div className="destiny-report-box">
           <h3>Life Purpose</h3>
           <hr />
-<p>{report.lifePurpose}</p>
+          <p>{report.lifePurpose}</p>
+        </div>
+
+        <div className="destiny-report-box">
+          <h3>Your Strengths</h3>
+          <hr />
+
+          <p>{report.strengths}</p>
         </div>
       </div>
     </>
