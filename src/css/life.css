@@ -1,0 +1,24 @@
+.life-banner{
+    width: 100%;
+    height: 35vh;
+    background-color: #333;
+    color: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.life-banner h1{
+    font-size: 3rem;
+    margin: 0;
+    padding: 0;
+}
+.life-banner p{
+    font-size: 14px;
+   margin-top: .5rem;
+    padding: 0;
+}
+
+.life-report{
+    padding: 1rem;
+}
